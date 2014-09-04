@@ -1,9 +1,0 @@
-Warning[2058] C:\Users\roy\Desktop\ExRobot\Src\main.c 68 : call of function without prototype
-Warning[2058] C:\Users\roy\Desktop\ExRobot\Src\main.c 69 : call of function without prototype
-Warning[2054] C:\Users\roy\Desktop\ExRobot\Src\main.c 69 : suspicious pointer conversion
-Warning[2058] C:\Users\roy\Desktop\ExRobot\Src\main.c 79 : call of function without prototype
-Warning[2066] C:\Users\roy\Desktop\ExRobot\Src\main.c 79 : type qualifier mismatch in assignment
-Warning[2058] C:\Users\roy\Desktop\ExRobot\Src\main.c 80 : call of function without prototype
-Warning[2066] C:\Users\roy\Desktop\ExRobot\Src\main.c 80 : type qualifier mismatch in assignment
-Warning[2058] C:\Users\roy\Desktop\ExRobot\Src\main.c 90 : call of function without prototype
-Warning[2066] C:\Users\roy\Desktop\ExRobot\Src\main.c 90 : type qualifier mismatch in assignment
