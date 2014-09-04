@@ -1,0 +1,1887 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ABDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	642;"	m	line:642
+ABDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	671;"	m	line:671
+ABDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	701;"	m	line:701
+ABDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	720;"	m	line:720
+ABDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	739;"	m	line:739
+ABDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	758;"	m	line:758
+ABDEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	658;"	m	line:658
+ABDEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	687;"	m	line:687
+ABDOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	649;"	m	line:649
+ABDOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	678;"	m	line:678
+ABDOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	708;"	m	line:708
+ABDOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	727;"	m	line:727
+ABDOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	746;"	m	line:746
+ABDOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	765;"	m	line:765
+ABDOVF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	665;"	m	line:665
+ABDOVF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	694;"	m	line:694
+ACCESS::0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2770;"	d	line:2770
+ACKDT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2228;"	m	line:2228
+ACKDT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2253;"	m	line:2253
+ACKDT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	243;"	m	line:243
+ACKDT2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	265;"	m	line:265
+ACKEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2227;"	m	line:2227
+ACKEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2252;"	m	line:2252
+ACKEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	242;"	m	line:242
+ACKEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	264;"	m	line:264
+ACKSTAT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2229;"	m	line:2229
+ACKSTAT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2254;"	m	line:2254
+ACKSTAT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	244;"	m	line:244
+ACKSTAT2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	266;"	m	line:266
+ACQT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2159;"	m	line:2159
+ACQT0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2167;"	m	line:2167
+ACQT1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2168;"	m	line:2168
+ACQT2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2169;"	m	line:2169
+AD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	912;"	m	line:912
+AD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	913;"	m	line:913
+AD10	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	957;"	m	line:957
+AD11	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	958;"	m	line:958
+AD12	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	959;"	m	line:959
+AD13	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	960;"	m	line:960
+AD14	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	961;"	m	line:961
+AD15	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	962;"	m	line:962
+AD16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1047;"	m	line:1047
+AD17	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1048;"	m	line:1048
+AD18	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1049;"	m	line:1049
+AD19	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1050;"	m	line:1050
+AD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	914;"	m	line:914
+AD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	915;"	m	line:915
+AD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	916;"	m	line:916
+AD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	917;"	m	line:917
+AD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	918;"	m	line:918
+AD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	919;"	m	line:919
+AD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	955;"	m	line:955
+AD9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	956;"	m	line:956
+ADCAL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2202;"	m	line:2202
+ADCS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2158;"	m	line:2158
+ADCS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2164;"	m	line:2164
+ADCS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2165;"	m	line:2165
+ADCS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2166;"	m	line:2166
+ADDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1779;"	m	line:1779
+ADDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1815;"	m	line:1815
+ADDEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	480;"	m	line:480
+ADDEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1802;"	m	line:1802
+ADDEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1838;"	m	line:1838
+ADDEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	503;"	m	line:503
+ADFM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2161;"	m	line:2161
+ADIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1629;"	m	line:1629
+ADIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1648;"	m	line:1648
+ADIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1670;"	m	line:1670
+ADMSK	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2242;"	m	line:2242
+ADMSK	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2267;"	m	line:2267
+ADMSK	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	257;"	m	line:257
+ADMSK1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2234;"	m	line:2234
+ADMSK1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2259;"	m	line:2259
+ADMSK1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	249;"	m	line:249
+ADMSK12	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	271;"	m	line:271
+ADMSK2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2235;"	m	line:2235
+ADMSK2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2260;"	m	line:2260
+ADMSK2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	250;"	m	line:250
+ADMSK22	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	272;"	m	line:272
+ADMSK3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2236;"	m	line:2236
+ADMSK3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2261;"	m	line:2261
+ADMSK3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	251;"	m	line:251
+ADMSK32	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	273;"	m	line:273
+ADMSK4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2237;"	m	line:2237
+ADMSK4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2262;"	m	line:2262
+ADMSK4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	252;"	m	line:252
+ADMSK42	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	274;"	m	line:274
+ADMSK5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2238;"	m	line:2238
+ADMSK5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2263;"	m	line:2263
+ADMSK5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	253;"	m	line:253
+ADMSK52	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	275;"	m	line:275
+ADON	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2190;"	m	line:2190
+ALE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1070;"	m	line:1070
+AN0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	789;"	m	line:789
+AN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	790;"	m	line:790
+AN10	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	990;"	m	line:990
+AN11	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	991;"	m	line:991
+AN12	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1051;"	m	line:1051
+AN13	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1052;"	m	line:1052
+AN14	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1053;"	m	line:1053
+AN15	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1054;"	m	line:1054
+AN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	791;"	m	line:791
+AN3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	792;"	m	line:792
+AN4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	794;"	m	line:794
+AN5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	985;"	m	line:985
+AN6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	986;"	m	line:986
+AN7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	987;"	m	line:987
+AN8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	988;"	m	line:988
+AN9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	989;"	m	line:989
+ANDOR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	146;"	m	line:146
+AUTOINC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	212;"	m	line:212
+BA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1074;"	m	line:1074
+BANKED::1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2771;"	d	line:2771
+BBIPG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	90;"	m	line:90
+BBIPG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	91;"	m	line:91
+BBIPG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	92;"	m	line:92
+BBIPG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	93;"	m	line:93
+BBIPG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	94;"	m	line:94
+BBIPG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	95;"	m	line:95
+BBIPG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	96;"	m	line:96
+BCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	140;"	m	line:140
+BCL1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1686;"	m	line:1686
+BCL1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1703;"	m	line:1703
+BCL1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1720;"	m	line:1720
+BCL2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1739;"	m	line:1739
+BCL2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1750;"	m	line:1750
+BCL2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1761;"	m	line:1761
+BCLIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1694;"	m	line:1694
+BCLIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1711;"	m	line:1711
+BCLIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1728;"	m	line:1728
+BF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2305;"	m	line:2305
+BF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2355;"	m	line:2355
+BF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	307;"	m	line:307
+BF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	354;"	m	line:354
+BOOL	C:\project\ExRobot\Inc\GenericTypeDefs.h	49;"	t	line:49
+BOR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2462;"	m	line:2462
+BRG16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	645;"	m	line:645
+BRG16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	674;"	m	line:674
+BRG16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	704;"	m	line:704
+BRG16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	723;"	m	line:723
+BRG16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	742;"	m	line:742
+BRG16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	761;"	m	line:761
+BRG162	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	661;"	m	line:661
+BRG162	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	690;"	m	line:690
+BRGH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1850;"	m	line:1850
+BRGH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1882;"	m	line:1882
+BRGH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	515;"	m	line:515
+BRGH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1869;"	m	line:1869
+BRGH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1901;"	m	line:1901
+BRGH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	534;"	m	line:534
+BUFER	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	205;"	m	line:205
+BUMPER1	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+BUMPER1	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+BUMPER1::(PORTJbits.RJ5)	C:\project\ExRobot\Inc\HardwareProfile.h	138;"	d	line:138
+BUMPER1_TRIS::(TRISJbits.TRISJ5)	C:\project\ExRobot\Inc\HardwareProfile.h	137;"	d	line:137
+BUMPER2	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+BUMPER2	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+BUMPER2::(PORTJbits.RJ4)	C:\project\ExRobot\Inc\HardwareProfile.h	140;"	d	line:140
+BUMPER2_TRIS::(TRISJbits.TRISJ4)	C:\project\ExRobot\Inc\HardwareProfile.h	139;"	d	line:139
+BUMPER3	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+BUMPER3	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+BUMPER3::(PORTJbits.RJ3)	C:\project\ExRobot\Inc\HardwareProfile.h	142;"	d	line:142
+BUMPER3_TRIS::(TRISJbits.TRISJ3)	C:\project\ExRobot\Inc\HardwareProfile.h	141;"	d	line:141
+BUSY	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	46;"	m	line:46
+BUTTON0_IO::(PORTBbits.RB3)	C:\project\ExRobot\Inc\HardwareProfile.h	179;"	d	line:179
+BUTTON0_TRIS::(TRISBbits.TRISB3)	C:\project\ExRobot\Inc\HardwareProfile.h	178;"	d	line:178
+BUTTON1_IO::(PORTBbits.RB1)	C:\project\ExRobot\Inc\HardwareProfile.h	181;"	d	line:181
+BUTTON1_TRIS::(TRISBbits.TRISB1)	C:\project\ExRobot\Inc\HardwareProfile.h	180;"	d	line:180
+BYTE	C:\project\ExRobot\Inc\GenericTypeDefs.h	59;"	t	line:59
+BYTE	C:\project\ExRobot\Inc\LCDBlocking.h	57;"	t	line:57
+BYTE_BITS	C:\project\ExRobot\Inc\GenericTypeDefs.h	104;"	t	line:104
+BYTE_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	104;"	t	line:104
+BusyUART2	C:\project\ExRobot\Inc\UART.h	70;"	p	line:70	signature:(void)
+BusyUART2	C:\project\ExRobot\Src\UART.c	249;"	f	line:249	signature:(void)
+BusyUART::BusyUSART	C:\project\ExRobot\Inc\HardwareProfile.h	219;"	d	line:219
+BusyUSART	C:\project\ExRobot\Inc\UART.h	56;"	p	line:56	signature:(void)
+BusyUSART	C:\project\ExRobot\Src\UART.c	81;"	f	line:81	signature:(void)
+C	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2522;"	m	line:2522
+C1INV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1953;"	m	line:1953
+C1OUT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1955;"	m	line:1955
+C2INV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1954;"	m	line:1954
+C2OUT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1956;"	m	line:1956
+CCP1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	853;"	m	line:853
+CCP1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1625;"	m	line:1625
+CCP1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1644;"	m	line:1644
+CCP1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1666;"	m	line:1666
+CCP1M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2109;"	m	line:2109
+CCP1M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2132;"	m	line:2132
+CCP1M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2114;"	m	line:2114
+CCP1M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2137;"	m	line:2137
+CCP1M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2115;"	m	line:2115
+CCP1M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2138;"	m	line:2138
+CCP1M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2116;"	m	line:2116
+CCP1M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2139;"	m	line:2139
+CCP1M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2117;"	m	line:2117
+CCP1M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2140;"	m	line:2140
+CCP1X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2126;"	m	line:2126
+CCP1X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2149;"	m	line:2149
+CCP1Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2125;"	m	line:2125
+CCP1Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2148;"	m	line:2148
+CCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	828;"	m	line:828
+CCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	862;"	m	line:862
+CCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	952;"	m	line:952
+CCP2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1683;"	m	line:1683
+CCP2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1700;"	m	line:1700
+CCP2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1717;"	m	line:1717
+CCP2M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2060;"	m	line:2060
+CCP2M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2083;"	m	line:2083
+CCP2M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2065;"	m	line:2065
+CCP2M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2088;"	m	line:2088
+CCP2M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2066;"	m	line:2066
+CCP2M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2089;"	m	line:2089
+CCP2M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2067;"	m	line:2067
+CCP2M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2090;"	m	line:2090
+CCP2M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2068;"	m	line:2068
+CCP2M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2091;"	m	line:2091
+CCP2X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2077;"	m	line:2077
+CCP2X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2100;"	m	line:2100
+CCP2Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2076;"	m	line:2076
+CCP2Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2099;"	m	line:2099
+CCP3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1022;"	m	line:1022
+CCP3IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1733;"	m	line:1733
+CCP3IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1744;"	m	line:1744
+CCP3IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1755;"	m	line:1755
+CCP3M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2011;"	m	line:2011
+CCP3M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2034;"	m	line:2034
+CCP3M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2016;"	m	line:2016
+CCP3M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2039;"	m	line:2039
+CCP3M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2017;"	m	line:2017
+CCP3M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2040;"	m	line:2040
+CCP3M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2018;"	m	line:2018
+CCP3M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2041;"	m	line:2041
+CCP3M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2019;"	m	line:2019
+CCP3M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2042;"	m	line:2042
+CCP3X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2028;"	m	line:2028
+CCP3X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2051;"	m	line:2051
+CCP3Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2027;"	m	line:2027
+CCP3Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2050;"	m	line:2050
+CCP4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1025;"	m	line:1025
+CCP4IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1734;"	m	line:1734
+CCP4IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1745;"	m	line:1745
+CCP4IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1756;"	m	line:1756
+CCP4M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	571;"	m	line:571
+CCP4M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	575;"	m	line:575
+CCP4M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	576;"	m	line:576
+CCP4M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	577;"	m	line:577
+CCP4M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	578;"	m	line:578
+CCP4X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	585;"	m	line:585
+CCP4Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	584;"	m	line:584
+CCP5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1026;"	m	line:1026
+CCP5IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1735;"	m	line:1735
+CCP5IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1746;"	m	line:1746
+CCP5IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1757;"	m	line:1757
+CCP5M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	548;"	m	line:548
+CCP5M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	552;"	m	line:552
+CCP5M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	553;"	m	line:553
+CCP5M2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	554;"	m	line:554
+CCP5M3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	555;"	m	line:555
+CCP5X	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	557;"	m	line:557
+CCP5Y	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	556;"	m	line:556
+CE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1075;"	m	line:1075
+CHAR	C:\project\ExRobot\Inc\GenericTypeDefs.h	63;"	t	line:63
+CHAR8	C:\project\ExRobot\Inc\GenericTypeDefs.h	71;"	t	line:71
+CHS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2192;"	m	line:2192
+CHS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2197;"	m	line:2197
+CHS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2198;"	m	line:2198
+CHS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2199;"	m	line:2199
+CHS3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2200;"	m	line:2200
+CH_PUMP::(PORTGbits.RG7)	C:\project\ExRobot\Inc\HardwareProfile.h	124;"	d	line:124
+CH_PUMP_TRIS::(TRISGbits.TRISG7)	C:\project\ExRobot\Inc\HardwareProfile.h	123;"	d	line:123
+CIS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1952;"	m	line:1952
+CK	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	867;"	m	line:867
+CK1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	885;"	m	line:885
+CK2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1030;"	m	line:1030
+CKE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2311;"	m	line:2311
+CKE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2361;"	m	line:2361
+CKE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	313;"	m	line:313
+CKE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	360;"	m	line:360
+CKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2274;"	m	line:2274
+CKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2290;"	m	line:2290
+CKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	282;"	m	line:282
+CKP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	298;"	m	line:298
+CM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1951;"	m	line:1951
+CM0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1959;"	m	line:1959
+CM1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1960;"	m	line:1960
+CM2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1961;"	m	line:1961
+CMIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1689;"	m	line:1689
+CMIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1706;"	m	line:1706
+CMIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1723;"	m	line:1723
+CRCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	145;"	m	line:145
+CREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1780;"	m	line:1780
+CREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1816;"	m	line:1816
+CREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	481;"	m	line:481
+CREN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1803;"	m	line:1803
+CREN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1839;"	m	line:1839
+CREN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	504;"	m	line:504
+CS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	950;"	m	line:950
+CSRC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1855;"	m	line:1855
+CSRC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1887;"	m	line:1887
+CSRC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	520;"	m	line:520
+CSRC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1874;"	m	line:1874
+CSRC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1906;"	m	line:1906
+CSRC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	539;"	m	line:539
+CSUMEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2483;"	m	line:2483
+CVR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1967;"	m	line:1967
+CVR0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1974;"	m	line:1974
+CVR1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1975;"	m	line:1975
+CVR2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1976;"	m	line:1976
+CVR3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1977;"	m	line:1977
+CVREF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	996;"	m	line:996
+CVREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1971;"	m	line:1971
+CVROE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1970;"	m	line:1970
+CVRR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1969;"	m	line:1969
+CVRSS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1968;"	m	line:1968
+CloseUART::CloseUSART	C:\project\ExRobot\Inc\HardwareProfile.h	220;"	d	line:220
+CloseUSART	C:\project\ExRobot\Inc\UART.h	57;"	p	line:57	signature:(void)
+CloseUSART	C:\project\ExRobot\Src\UART.c	86;"	f	line:86	signature:(void)
+ClrWdt::(WDTCONSET=_WDTCON_WDTCLR_MASK	C:\project\ExRobot\Inc\Compiler.h	157;"	d	line:157
+ClrWdt::asm("CLRWDT");	C:\project\ExRobot\Inc\Compiler.h	136;"	d	line:136
+ClrWdt::{_asmclrwdt_endasm}	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2777;"	d	line:2777
+ConfigIntUART::(a)ConfigIntUSART(a)	C:\project\ExRobot\Inc\HardwareProfile.h	221;"	d	line:221
+D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2349;"	m	line:2349
+D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2399;"	m	line:2399
+D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	351;"	m	line:351
+DA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	359;"	m	line:359
+DATA_ADDRESS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2343;"	m	line:2343
+DATA_ADDRESS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2393;"	m	line:2393
+DATA_ADDRESS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	345;"	m	line:345
+DC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2523;"	m	line:2523
+DC1B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2110;"	m	line:2110
+DC1B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2133;"	m	line:2133
+DC1B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2118;"	m	line:2118
+DC1B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2141;"	m	line:2141
+DC1B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2119;"	m	line:2119
+DC1B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2142;"	m	line:2142
+DC2B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2061;"	m	line:2061
+DC2B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2084;"	m	line:2084
+DC2B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2069;"	m	line:2069
+DC2B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2092;"	m	line:2092
+DC2B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2070;"	m	line:2070
+DC2B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2093;"	m	line:2093
+DC3B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2012;"	m	line:2012
+DC3B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2035;"	m	line:2035
+DC3B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2020;"	m	line:2020
+DC3B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2043;"	m	line:2043
+DC3B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2021;"	m	line:2021
+DC3B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2044;"	m	line:2044
+DC4B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	572;"	m	line:572
+DC4B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	579;"	m	line:579
+DC4B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	580;"	m	line:580
+DC5B	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	549;"	m	line:549
+DC5B0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	561;"	m	line:561
+DC5B1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	562;"	m	line:562
+DEFER	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	86;"	m	line:86
+DMAIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	191;"	m	line:191
+DMAIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	221;"	m	line:221
+DMAST	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2484;"	m	line:2484
+DONE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2196;"	m	line:2196
+DT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	868;"	m	line:868
+DT1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	886;"	m	line:886
+DT2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1031;"	m	line:1031
+DWORD	C:\project\ExRobot\Inc\GenericTypeDefs.h	61;"	t	line:61
+DWORD_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	193;"	t	line:193
+D_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2318;"	m	line:2318
+D_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2368;"	m	line:2368
+D_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	320;"	m	line:320
+D_NOT_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2310;"	m	line:2310
+D_NOT_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2360;"	m	line:2360
+D_NOT_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	312;"	m	line:312
+DataRdyUART2	C:\project\ExRobot\Inc\UART.h	69;"	p	line:69	signature:(void)
+DataRdyUART2	C:\project\ExRobot\Src\UART.c	235;"	f	line:235	signature:(void)
+DataRdyUART::DataRdyUSART	C:\project\ExRobot\Inc\HardwareProfile.h	222;"	d	line:222
+DataRdyUSART	C:\project\ExRobot\Inc\UART.h	58;"	p	line:58	signature:(void)
+DataRdyUSART	C:\project\ExRobot\Src\UART.c	94;"	f	line:94	signature:(void)
+Delay10us	C:\project\ExRobot\Inc\Delay.h	76;"	p	line:76	signature:(DWORD dwCount)
+Delay10us	C:\project\ExRobot\Src\Delay.c	72;"	f	line:72	signature:(DWORD dwCount)
+Delay10us::(us)Delay10TCYx(((GetInstructi	C:\project\ExRobot\Inc\Delay.h	66;"	d	line:66
+Delay10us::(x)	C:\project\ExRobot\Inc\Delay.h	86;"	d	line:86
+DelayMs	C:\project\ExRobot\Inc\Delay.h	77;"	p	line:77	signature:(WORD ms)
+DelayMs	C:\project\ExRobot\Inc\Delay.h	87;"	p	line:87	signature:(WORD ms)
+DelayMs	C:\project\ExRobot\Src\Delay.c	56;"	f	line:56	signature:(WORD ms)
+DelayMs::(ms)	C:\project\ExRobot\Inc\Delay.h	73;"	d	line:73
+EBDIS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1610;"	m	line:1610
+ECCP1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	873;"	m	line:873
+ECCP1AS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2002;"	m	line:2002
+ECCP1AS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2003;"	m	line:2003
+ECCP1AS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2004;"	m	line:2004
+ECCP1ASE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2005;"	m	line:2005
+ECCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	835;"	m	line:835
+ECCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	872;"	m	line:872
+ECCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	969;"	m	line:969
+ECCP2AS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	414;"	m	line:414
+ECCP2AS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	415;"	m	line:415
+ECCP2AS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	416;"	m	line:416
+ECCP2ASE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	417;"	m	line:417
+ECCP3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1029;"	m	line:1029
+ECCP3AS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	468;"	m	line:468
+ECCP3AS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	469;"	m	line:469
+ECCP3AS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	470;"	m	line:470
+ECCP3ASE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	471;"	m	line:471
+ECCPAS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1985;"	m	line:1985
+ECCPAS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	397;"	m	line:397
+ECCPAS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	451;"	m	line:451
+ECCPAS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1993;"	m	line:1993
+ECCPAS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	405;"	m	line:405
+ECCPAS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	459;"	m	line:459
+ECCPAS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1994;"	m	line:1994
+ECCPAS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	406;"	m	line:406
+ECCPAS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	460;"	m	line:460
+ECCPAS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1995;"	m	line:1995
+ECCPAS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	407;"	m	line:407
+ECCPAS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	461;"	m	line:461
+ECCPASE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1986;"	m	line:1986
+ECCPASE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	398;"	m	line:398
+ECCPASE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	452;"	m	line:452
+EDATA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	226;"	m	line:226
+EDATA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	227;"	m	line:227
+EDATA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	228;"	m	line:228
+EDATA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	229;"	m	line:229
+EDATA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	230;"	m	line:230
+EDATA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	231;"	m	line:231
+EDATA6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	232;"	m	line:232
+EDATA7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	233;"	m	line:233
+EEPROM_CS_IO::(LATDbits.LATD7)	C:\project\ExRobot\Inc\HardwareProfile.h	188;"	d	line:188
+EEPROM_CS_TRIS::(TRISDbits.TRISD7)	C:\project\ExRobot\Inc\HardwareProfile.h	187;"	d	line:187
+EEPROM_SCK_TRIS::(TRISCbits.TRISC3)	C:\project\ExRobot\Inc\HardwareProfile.h	189;"	d	line:189
+EEPROM_SDI_TRIS::(TRISCbits.TRISC4)	C:\project\ExRobot\Inc\HardwareProfile.h	190;"	d	line:190
+EEPROM_SDO_TRIS::(TRISCbits.TRISC5)	C:\project\ExRobot\Inc\HardwareProfile.h	191;"	d	line:191
+EEPROM_SPICON1::(SSP1CON1)	C:\project\ExRobot\Inc\HardwareProfile.h	194;"	d	line:194
+EEPROM_SPICON1bits::(SSP1CON1bits)	C:\project\ExRobot\Inc\HardwareProfile.h	195;"	d	line:195
+EEPROM_SPICON2::(SSP1CON2)	C:\project\ExRobot\Inc\HardwareProfile.h	196;"	d	line:196
+EEPROM_SPISTAT::(SSP1STAT)	C:\project\ExRobot\Inc\HardwareProfile.h	197;"	d	line:197
+EEPROM_SPISTATbits::(SSP1STATbits)	C:\project\ExRobot\Inc\HardwareProfile.h	198;"	d	line:198
+EEPROM_SPI_IF::(PIR1bits.SSPIF)	C:\project\ExRobot\Inc\HardwareProfile.h	192;"	d	line:192
+EEPROM_SSPBUF::(SSPBUF)	C:\project\ExRobot\Inc\HardwareProfile.h	193;"	d	line:193
+ETHEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	210;"	m	line:210
+ETHIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1688;"	m	line:1688
+ETHIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1705;"	m	line:1705
+ETHIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1722;"	m	line:1722
+ETH_18Fx7J60_ERRATA	C:\project\ExRobot\Inc\HardwareProfile.h	108;"	d	line:108
+ETXIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	196;"	m	line:196
+FALSE	C:\project\ExRobot\Inc\GenericTypeDefs.h	49;"	e	line:49	enum:_BOOL
+FAR	C:\project\ExRobot\Inc\Compiler.h	155;"	d	line:155
+FAR::__attribute__((far))	C:\project\ExRobot\Inc\Compiler.h	148;"	d	line:148
+FAR::far	C:\project\ExRobot\Inc\Compiler.h	123;"	d	line:123
+FCEN0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	52;"	m	line:52
+FCEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	53;"	m	line:53
+FERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1778;"	m	line:1778
+FERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1814;"	m	line:1814
+FERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	479;"	m	line:479
+FERR1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1801;"	m	line:1801
+FERR1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1837;"	m	line:1837
+FERR2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	502;"	m	line:502
+FLT0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	826;"	m	line:826
+FOUR_BIT_MODE	C:\project\ExRobot\Src\LCDBlocking.c	59;"	d	line:59	file:
+FREE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1770;"	m	line:1770
+FRMLNEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	70;"	m	line:70
+FULDPX	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	69;"	m	line:69
+FULDPXS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	54;"	m	line:54
+GCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2230;"	m	line:2230
+GCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2255;"	m	line:2255
+GCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	245;"	m	line:245
+GCEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	267;"	m	line:267
+GIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2616;"	m	line:2616
+GIEH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2621;"	m	line:2621
+GIEL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2620;"	m	line:2620
+GIE_GIEH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2606;"	m	line:2606
+GO	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2210;"	m	line:2210
+GO_DONE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2206;"	m	line:2206
+GO_NOT_DONE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2191;"	m	line:2191
+GetInstructionClock::(GetSystemClock/4)	C:\project\ExRobot\Inc\HardwareProfile.h	98;"	d	line:98
+GetLcdBuffer	C:\project\ExRobot\Inc\LCDBlocking.h	58;"	p	line:58	signature:()
+GetLcdBuffer	C:\project\ExRobot\Src\LCDBlocking.c	82;"	f	line:82
+GetLcdBuffer	C:\project\ExRobot\Src\main.c	79;"	p	line:79	file:
+GetLcdBuffer	C:\project\ExRobot\Src\main.c	90;"	p	line:90	file:
+GetPeripheralClock::GetInstructionClock	C:\project\ExRobot\Inc\HardwareProfile.h	99;"	d	line:99
+GetSystemClock::(25000000ul)	C:\project\ExRobot\Inc\HardwareProfile.h	97;"	d	line:97
+HB	C:\project\ExRobot\Inc\GenericTypeDefs.h	113;"	m	line:113	struct:_WORD_VAL::<anonymous>
+HB	C:\project\ExRobot\Inc\GenericTypeDefs.h	149;"	m	line:149	struct:_DWORD_VAL::<anonymous>
+HD	C:\project\ExRobot\Inc\GenericTypeDefs.h	212;"	m	line:212	struct:_QWORD_VAL::<anonymous>
+HFRMEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	71;"	m	line:71
+HTEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	142;"	m	line:142
+HW	C:\project\ExRobot\Inc\GenericTypeDefs.h	144;"	m	line:144	struct:_DWORD_VAL::<anonymous>
+HW	C:\project\ExRobot\Inc\GenericTypeDefs.h	217;"	m	line:217	struct:_QWORD_VAL::<anonymous>
+I2C_DAT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2325;"	m	line:2325
+I2C_DAT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2375;"	m	line:2375
+I2C_DAT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	327;"	m	line:327
+I2C_READ	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2322;"	m	line:2322
+I2C_READ	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2372;"	m	line:2372
+I2C_READ	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	324;"	m	line:324
+I2C_START	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2323;"	m	line:2323
+I2C_START	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2373;"	m	line:2373
+I2C_START	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	325;"	m	line:325
+I2C_STOP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2324;"	m	line:2324
+I2C_STOP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2374;"	m	line:2374
+I2C_STOP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	326;"	m	line:326
+IBF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1921;"	m	line:1921
+IBOV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1919;"	m	line:1919
+IDLEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2495;"	m	line:2495
+INT	C:\project\ExRobot\Inc\GenericTypeDefs.h	78;"	t	line:78
+INT0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	816;"	m	line:816
+INT0E	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2613;"	m	line:2613
+INT0F	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2610;"	m	line:2610
+INT0IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2603;"	m	line:2603
+INT0IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2600;"	m	line:2600
+INT1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	817;"	m	line:817
+INT16	C:\project\ExRobot\Inc\GenericTypeDefs.h	80;"	t	line:80
+INT1E	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2570;"	m	line:2570
+INT1F	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2567;"	m	line:2567
+INT1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2560;"	m	line:2560
+INT1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2557;"	m	line:2557
+INT1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2563;"	m	line:2563
+INT1P	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2573;"	m	line:2573
+INT2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	818;"	m	line:818
+INT2E	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2571;"	m	line:2571
+INT2F	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2568;"	m	line:2568
+INT2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2561;"	m	line:2561
+INT2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2558;"	m	line:2558
+INT2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2564;"	m	line:2564
+INT2P	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2574;"	m	line:2574
+INT3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	819;"	m	line:819
+INT32	C:\project\ExRobot\Inc\GenericTypeDefs.h	81;"	t	line:81
+INT3E	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2572;"	m	line:2572
+INT3F	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2569;"	m	line:2569
+INT3IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2562;"	m	line:2562
+INT3IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2559;"	m	line:2559
+INT3IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2581;"	m	line:2581
+INT64	C:\project\ExRobot\Inc\GenericTypeDefs.h	82;"	t	line:82
+INT8	C:\project\ExRobot\Inc\GenericTypeDefs.h	79;"	t	line:79
+INTEDG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2586;"	m	line:2586
+INTEDG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2585;"	m	line:2585
+INTEDG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2584;"	m	line:2584
+INTEDG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2583;"	m	line:2583
+INTSAVELOCS::TBLPTR,TABLAT,PROD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2791;"	d	line:2791
+IPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2459;"	m	line:2459
+KBI0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	820;"	m	line:820
+KBI1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	821;"	m	line:821
+KBI2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	822;"	m	line:822
+KBI3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	823;"	m	line:823
+LATA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1092;"	m	line:1092
+LATA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1093;"	m	line:1093
+LATA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1094;"	m	line:1094
+LATA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1095;"	m	line:1095
+LATA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1096;"	m	line:1096
+LATA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1097;"	m	line:1097
+LATB0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1103;"	m	line:1103
+LATB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1104;"	m	line:1104
+LATB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1105;"	m	line:1105
+LATB3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1106;"	m	line:1106
+LATB4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1107;"	m	line:1107
+LATB5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1108;"	m	line:1108
+LATB6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1109;"	m	line:1109
+LATB7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1110;"	m	line:1110
+LATC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1114;"	m	line:1114
+LATC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1115;"	m	line:1115
+LATC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1116;"	m	line:1116
+LATC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1117;"	m	line:1117
+LATC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1118;"	m	line:1118
+LATC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1119;"	m	line:1119
+LATC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1120;"	m	line:1120
+LATC7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1121;"	m	line:1121
+LATD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1125;"	m	line:1125
+LATD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1126;"	m	line:1126
+LATD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1127;"	m	line:1127
+LATD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1128;"	m	line:1128
+LATD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1129;"	m	line:1129
+LATD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1130;"	m	line:1130
+LATD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1131;"	m	line:1131
+LATD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1132;"	m	line:1132
+LATE0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1136;"	m	line:1136
+LATE1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1137;"	m	line:1137
+LATE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1138;"	m	line:1138
+LATE3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1139;"	m	line:1139
+LATE4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1140;"	m	line:1140
+LATE5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1141;"	m	line:1141
+LATE6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1142;"	m	line:1142
+LATE7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1143;"	m	line:1143
+LATF0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1147;"	m	line:1147
+LATF1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1148;"	m	line:1148
+LATF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1149;"	m	line:1149
+LATF3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1150;"	m	line:1150
+LATF4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1151;"	m	line:1151
+LATF5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1152;"	m	line:1152
+LATF6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1153;"	m	line:1153
+LATF7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1154;"	m	line:1154
+LATG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1158;"	m	line:1158
+LATG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1159;"	m	line:1159
+LATG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1160;"	m	line:1160
+LATG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1161;"	m	line:1161
+LATG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1162;"	m	line:1162
+LATG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1163;"	m	line:1163
+LATG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1164;"	m	line:1164
+LATG7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1165;"	m	line:1165
+LATH0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1169;"	m	line:1169
+LATH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1170;"	m	line:1170
+LATH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1171;"	m	line:1171
+LATH3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1172;"	m	line:1172
+LATH4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1173;"	m	line:1173
+LATH5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1174;"	m	line:1174
+LATH6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1175;"	m	line:1175
+LATH7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1176;"	m	line:1176
+LATJ0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1180;"	m	line:1180
+LATJ1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1181;"	m	line:1181
+LATJ2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1182;"	m	line:1182
+LATJ3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1183;"	m	line:1183
+LATJ4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1184;"	m	line:1184
+LATJ5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1185;"	m	line:1185
+LATJ6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1186;"	m	line:1186
+LATJ7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1187;"	m	line:1187
+LB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1076;"	m	line:1076
+LB	C:\project\ExRobot\Inc\GenericTypeDefs.h	112;"	m	line:112	struct:_WORD_VAL::<anonymous>
+LB	C:\project\ExRobot\Inc\GenericTypeDefs.h	148;"	m	line:148	struct:_DWORD_VAL::<anonymous>
+LCDErase	C:\project\ExRobot\Inc\LCDBlocking.h	61;"	p	line:61	signature:(void)
+LCDErase	C:\project\ExRobot\Src\LCDBlocking.c	271;"	f	line:271	signature:(void)
+LCDInit	C:\project\ExRobot\Inc\LCDBlocking.h	59;"	p	line:59	signature:(void)
+LCDInit	C:\project\ExRobot\Src\LCDBlocking.c	147;"	f	line:147	signature:(void)
+LCDText	C:\project\ExRobot\Src\LCDBlocking.c	64;"	v	line:64
+LCDUpdate	C:\project\ExRobot\Inc\LCDBlocking.h	60;"	p	line:60	signature:(void)
+LCDUpdate	C:\project\ExRobot\Src\LCDBlocking.c	210;"	f	line:210	signature:(void)
+LCDWrite	C:\project\ExRobot\Src\LCDBlocking.c	85;"	f	line:85	file:	signature:(BYTE RS, BYTE Data)
+LCD_BL_IO::(PORTGbits.RG5)	C:\project\ExRobot\Inc\HardwareProfile.h	118;"	d	line:118
+LCD_BL_TRIS::(TRISGbits.TRISG5)	C:\project\ExRobot\Inc\HardwareProfile.h	117;"	d	line:117
+LCD_DATA_IO::(*((volatileBYTE*)&LATE))	C:\project\ExRobot\Inc\HardwareProfile.h	203;"	d	line:203
+LCD_DATA_TRIS::(*((volatileBYTE*)&TRISE))	C:\project\ExRobot\Inc\HardwareProfile.h	202;"	d	line:202
+LCD_E_IO::(LATHbits.LATH0)	C:\project\ExRobot\Inc\HardwareProfile.h	209;"	d	line:209
+LCD_E_TRIS::(TRISHbits.TRISH0)	C:\project\ExRobot\Inc\HardwareProfile.h	208;"	d	line:208
+LCD_RD_WR_IO::(LATHbits.LATH1)	C:\project\ExRobot\Inc\HardwareProfile.h	205;"	d	line:205
+LCD_RD_WR_TRIS::(TRISHbits.TRISH1)	C:\project\ExRobot\Inc\HardwareProfile.h	204;"	d	line:204
+LCD_RS_IO::(LATHbits.LATH2)	C:\project\ExRobot\Inc\HardwareProfile.h	207;"	d	line:207
+LCD_RS_TRIS::(TRISHbits.TRISH2)	C:\project\ExRobot\Inc\HardwareProfile.h	206;"	d	line:206
+LD	C:\project\ExRobot\Inc\GenericTypeDefs.h	211;"	m	line:211	struct:_QWORD_VAL::<anonymous>
+LED0_IO::(PORTJbits.RJ0)	C:\project\ExRobot\Inc\HardwareProfile.h	112;"	d	line:112
+LED0_TRIS::(TRISJbits.TRISJ0)	C:\project\ExRobot\Inc\HardwareProfile.h	111;"	d	line:111
+LED1_IO::(PORTJbits.RJ1)	C:\project\ExRobot\Inc\HardwareProfile.h	114;"	d	line:114
+LED1_TRIS::(TRISJbits.TRISJ1)	C:\project\ExRobot\Inc\HardwareProfile.h	113;"	d	line:113
+LED2_IO::(PORTJbits.RJ2)	C:\project\ExRobot\Inc\HardwareProfile.h	116;"	d	line:116
+LED2_TRIS::(TRISJbits.TRISJ2)	C:\project\ExRobot\Inc\HardwareProfile.h	115;"	d	line:115
+LED5_IO	C:\project\ExRobot\Inc\HardwareProfile.h	120;"	d	line:120
+LED5_TRIS	C:\project\ExRobot\Inc\HardwareProfile.h	119;"	d	line:119
+LEDA	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	797;"	m	line:797
+LEDB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	798;"	m	line:798
+LED_GET::(LATJ)	C:\project\ExRobot\Inc\HardwareProfile.h	175;"	d	line:175
+LED_PUT::(a)(LATJ=(a))	C:\project\ExRobot\Inc\HardwareProfile.h	176;"	d	line:176
+LINKIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	190;"	m	line:190
+LINKIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	220;"	m	line:220
+LONG	C:\project\ExRobot\Inc\GenericTypeDefs.h	65;"	t	line:65
+LONGLONG	C:\project\ExRobot\Inc\GenericTypeDefs.h	66;"	t	line:66
+LOWER_LSB::(a)((a).v[0])	C:\project\ExRobot\Inc\GenericTypeDefs.h	198;"	d	line:198
+LOWER_MSB::(a)((a).v[1])	C:\project\ExRobot\Inc\GenericTypeDefs.h	199;"	d	line:199
+LSB::(a)((a).v[0])	C:\project\ExRobot\Inc\GenericTypeDefs.h	195;"	d	line:195
+LW	C:\project\ExRobot\Inc\GenericTypeDefs.h	143;"	m	line:143	struct:_DWORD_VAL::<anonymous>
+LW	C:\project\ExRobot\Inc\GenericTypeDefs.h	216;"	m	line:216	struct:_QWORD_VAL::<anonymous>
+L_MOTOR_BREAK::(PORTDbits.RD4)	C:\project\ExRobot\Inc\HardwareProfile.h	166;"	d	line:166
+L_MOTOR_BREAK_TRIS::(TRISDbits.TRISD4)	C:\project\ExRobot\Inc\HardwareProfile.h	165;"	d	line:165
+L_MOTOR_FB1	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+L_MOTOR_FB1	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+L_MOTOR_FB1::(PORTJbits.RJ7)	C:\project\ExRobot\Inc\HardwareProfile.h	133;"	d	line:133
+L_MOTOR_FB1_TRIS::(TRISJbits.TRISJ7)	C:\project\ExRobot\Inc\HardwareProfile.h	132;"	d	line:132
+L_MOTOR_PHASE::(PORTFbits.RF7)	C:\project\ExRobot\Inc\HardwareProfile.h	164;"	d	line:164
+L_MOTOR_PHASE_TRIS::(TRISFbits.TRISF7)	C:\project\ExRobot\Inc\HardwareProfile.h	163;"	d	line:163
+L_MOTOR_PWM::(PORTGbits.RG0)	C:\project\ExRobot\Inc\HardwareProfile.h	162;"	d	line:162
+L_MOTOR_PWM_TRIS::(TRISGbits.TRISG0)	C:\project\ExRobot\Inc\HardwareProfile.h	161;"	d	line:161
+L_WHITE_LINE_SENSE	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+L_WHITE_LINE_SENSE	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+L_WHITE_LINE_SENSE::(PORTHbits.RH3)	C:\project\ExRobot\Inc\HardwareProfile.h	149;"	d	line:149
+L_WHITE_LINE_SENSE_TRIS::(TRISHbits.TRISH3)	C:\project\ExRobot\Inc\HardwareProfile.h	148;"	d	line:148
+MAIN_VALVE_TRIS::(TRISCbits.TRISC2)	C:\project\ExRobot\Inc\HardwareProfile.h	183;"	d	line:183
+MARXEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	61;"	m	line:61
+MB	C:\project\ExRobot\Inc\GenericTypeDefs.h	151;"	m	line:151	struct:_DWORD_VAL::<anonymous>
+MCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	141;"	m	line:141
+MIIRD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	106;"	m	line:106
+MIISCAN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	107;"	m	line:107
+MOTOR_CARD_GREEN_LED::(PORTDbits.RD3)	C:\project\ExRobot\Inc\HardwareProfile.h	169;"	d	line:169
+MOTOR_CARD_GREEN_LED_TRIS::(TRISDbits.TRISD3)	C:\project\ExRobot\Inc\HardwareProfile.h	168;"	d	line:168
+MOTOR_CARD_RELAY::(PORTDbits.RD2)	C:\project\ExRobot\Inc\HardwareProfile.h	171;"	d	line:171
+MOTOR_CARD_RELAY_TRIS::(TRISDbits.TRISD2)	C:\project\ExRobot\Inc\HardwareProfile.h	170;"	d	line:170
+MPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	143;"	m	line:143
+MSB::(a)((a).v[1])	C:\project\ExRobot\Inc\GenericTypeDefs.h	196;"	d	line:196
+MW	C:\project\ExRobot\Inc\GenericTypeDefs.h	219;"	m	line:219	struct:_QWORD_VAL::<anonymous>
+N	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2526;"	m	line:2526
+NOT_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2331;"	m	line:2331
+NOT_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2381;"	m	line:2381
+NOT_A	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	333;"	m	line:333
+NOT_ADDRESS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2337;"	m	line:2337
+NOT_ADDRESS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2387;"	m	line:2387
+NOT_ADDRESS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	339;"	m	line:339
+NOT_BOR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2453;"	m	line:2453
+NOT_CE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1085;"	m	line:1085
+NOT_CS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	967;"	m	line:967
+NOT_DONE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2214;"	m	line:2214
+NOT_LB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1086;"	m	line:1086
+NOT_OE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1081;"	m	line:1081
+NOT_PD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2455;"	m	line:2455
+NOT_POR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2454;"	m	line:2454
+NOT_RBPU	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2587;"	m	line:2587
+NOT_RC8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1792;"	m	line:1792
+NOT_RC8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1828;"	m	line:1828
+NOT_RC8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	493;"	m	line:493
+NOT_RD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	965;"	m	line:965
+NOT_RI	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2457;"	m	line:2457
+NOT_SS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	998;"	m	line:998
+NOT_SS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1006;"	m	line:1006
+NOT_SS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	932;"	m	line:932
+NOT_T1SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2430;"	m	line:2430
+NOT_T3SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1928;"	m	line:1928
+NOT_TO	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2456;"	m	line:2456
+NOT_TX8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1864;"	m	line:1864
+NOT_TX8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1896;"	m	line:1896
+NOT_TX8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	529;"	m	line:529
+NOT_UB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1087;"	m	line:1087
+NOT_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2329;"	m	line:2329
+NOT_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2379;"	m	line:2379
+NOT_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	331;"	m	line:331
+NOT_WR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	966;"	m	line:966
+NOT_WRH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1083;"	m	line:1083
+NOT_WRITE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2335;"	m	line:2335
+NOT_WRITE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2385;"	m	line:2385
+NOT_WRITE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	337;"	m	line:337
+NOT_WRL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1082;"	m	line:1082
+NULL::0	C:\project\ExRobot\Inc\GenericTypeDefs.h	52;"	d	line:52
+NVALID	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	48;"	m	line:48
+Nop::asm("NOP");	C:\project\ExRobot\Inc\Compiler.h	135;"	d	line:135
+Nop::asm("nop")	C:\project\ExRobot\Inc\Compiler.h	158;"	d	line:158
+Nop::{_asmnop_endasm}	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2776;"	d	line:2776
+OBF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1920;"	m	line:1920
+OE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1071;"	m	line:1071
+OERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1777;"	m	line:1777
+OERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1813;"	m	line:1813
+OERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	478;"	m	line:478
+OERR1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1800;"	m	line:1800
+OERR1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1836;"	m	line:1836
+OERR2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	501;"	m	line:501
+OFF::0	C:\project\ExRobot\Inc\HardwareProfile.h	129;"	d	line:129
+OLIMEX_HW	C:\project\ExRobot\Inc\HardwareProfile.h	64;"	d	line:64
+OLIMEX_MAXI	C:\project\ExRobot\Inc\HardwareProfile.h	63;"	d	line:63
+ON::1	C:\project\ExRobot\Inc\HardwareProfile.h	128;"	d	line:128
+OSCFIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1690;"	m	line:1690
+OSCFIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1707;"	m	line:1707
+OSCFIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1724;"	m	line:1724
+OSTS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2493;"	m	line:2493
+OV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2525;"	m	line:2525
+OpenUART::(a,b,c)OpenUSART(a,b,c)	C:\project\ExRobot\Inc\HardwareProfile.h	223;"	d	line:223
+P	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2309;"	m	line:2309
+P	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2359;"	m	line:2359
+P	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	311;"	m	line:311
+P1DC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	626;"	m	line:626
+P1DC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	627;"	m	line:627
+P1DC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	628;"	m	line:628
+P1DC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	629;"	m	line:629
+P1DC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	630;"	m	line:630
+P1DC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	631;"	m	line:631
+P1DC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	632;"	m	line:632
+P1M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2111;"	m	line:2111
+P1M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2134;"	m	line:2134
+P1M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2120;"	m	line:2120
+P1M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2143;"	m	line:2143
+P1M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2121;"	m	line:2121
+P1M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2144;"	m	line:2144
+P1RSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	633;"	m	line:633
+P2DC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	382;"	m	line:382
+P2DC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	383;"	m	line:383
+P2DC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	384;"	m	line:384
+P2DC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	385;"	m	line:385
+P2DC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	386;"	m	line:386
+P2DC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	387;"	m	line:387
+P2DC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	388;"	m	line:388
+P2M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2062;"	m	line:2062
+P2M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2085;"	m	line:2085
+P2M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2071;"	m	line:2071
+P2M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2094;"	m	line:2094
+P2M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2072;"	m	line:2072
+P2M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2095;"	m	line:2095
+P2RSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	389;"	m	line:389
+P3DC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	436;"	m	line:436
+P3DC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	437;"	m	line:437
+P3DC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	438;"	m	line:438
+P3DC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	439;"	m	line:439
+P3DC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	440;"	m	line:440
+P3DC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	441;"	m	line:441
+P3DC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	442;"	m	line:442
+P3M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2013;"	m	line:2013
+P3M	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2036;"	m	line:2036
+P3M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2022;"	m	line:2022
+P3M0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2045;"	m	line:2045
+P3M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2023;"	m	line:2023
+P3M1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2046;"	m	line:2046
+P3RSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	443;"	m	line:443
+PADCFG	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	80;"	m	line:80
+PADCFG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	74;"	m	line:74
+PADCFG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	75;"	m	line:75
+PADCFG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	76;"	m	line:76
+PASSALL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	62;"	m	line:62
+PCFG	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2175;"	m	line:2175
+PCFG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2179;"	m	line:2179
+PCFG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2180;"	m	line:2180
+PCFG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2181;"	m	line:2181
+PCFG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2182;"	m	line:2182
+PD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2464;"	m	line:2464
+PDC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	369;"	m	line:369
+PDC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	423;"	m	line:423
+PDC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	613;"	m	line:613
+PDC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	373;"	m	line:373
+PDC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	427;"	m	line:427
+PDC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	617;"	m	line:617
+PDC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	374;"	m	line:374
+PDC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	428;"	m	line:428
+PDC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	618;"	m	line:618
+PDC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	375;"	m	line:375
+PDC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	429;"	m	line:429
+PDC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	619;"	m	line:619
+PDC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	376;"	m	line:376
+PDC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	430;"	m	line:430
+PDC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	620;"	m	line:620
+PDC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	377;"	m	line:377
+PDC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	431;"	m	line:431
+PDC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	621;"	m	line:621
+PDC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	378;"	m	line:378
+PDC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	432;"	m	line:432
+PDC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	622;"	m	line:622
+PDC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	379;"	m	line:379
+PDC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	433;"	m	line:433
+PDC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	623;"	m	line:623
+PEIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2615;"	m	line:2615
+PEIE_GIEL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2605;"	m	line:2605
+PEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2225;"	m	line:2225
+PEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2250;"	m	line:2250
+PEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	240;"	m	line:240
+PEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	262;"	m	line:262
+PGC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	830;"	m	line:830
+PGD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	831;"	m	line:831
+PHDREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	72;"	m	line:72
+PHYRDY	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	201;"	m	line:201
+PH_PUMP::(PORTGbits.RG6)	C:\project\ExRobot\Inc\HardwareProfile.h	126;"	d	line:126
+PH_PUMP_TRIS::(TRISGbits.TRISG6)	C:\project\ExRobot\Inc\HardwareProfile.h	125;"	d	line:125
+PKTDEC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	211;"	m	line:211
+PKTIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	192;"	m	line:192
+PKTIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	222;"	m	line:222
+PLLEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1600;"	m	line:1600
+PMEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	144;"	m	line:144
+POR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2463;"	m	line:2463
+PPRE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1598;"	m	line:1598
+PPST0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1599;"	m	line:1599
+PPST1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1601;"	m	line:1601
+PRIVATE::static	C:\project\ExRobot\Inc\GenericTypeDefs.h	57;"	d	line:57
+PROTECTED	C:\project\ExRobot\Inc\GenericTypeDefs.h	56;"	d	line:56
+PRSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	370;"	m	line:370
+PRSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	424;"	m	line:424
+PRSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	614;"	m	line:614
+PSA	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2506;"	m	line:2506
+PSP0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	902;"	m	line:902
+PSP1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	903;"	m	line:903
+PSP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	904;"	m	line:904
+PSP3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	905;"	m	line:905
+PSP4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	906;"	m	line:906
+PSP5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	907;"	m	line:907
+PSP6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	908;"	m	line:908
+PSP7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	909;"	m	line:909
+PSPIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1630;"	m	line:1630
+PSPIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1649;"	m	line:1649
+PSPIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1671;"	m	line:1671
+PSPMODE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1918;"	m	line:1918
+PSS1AC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2000;"	m	line:2000
+PSS1AC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2001;"	m	line:2001
+PSS1BD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1998;"	m	line:1998
+PSS1BD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1999;"	m	line:1999
+PSS2AC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	412;"	m	line:412
+PSS2AC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	413;"	m	line:413
+PSS2BD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	410;"	m	line:410
+PSS2BD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	411;"	m	line:411
+PSS3AC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	466;"	m	line:466
+PSS3AC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	467;"	m	line:467
+PSS3BD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	464;"	m	line:464
+PSS3BD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	465;"	m	line:465
+PSSAC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1984;"	m	line:1984
+PSSAC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	396;"	m	line:396
+PSSAC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	450;"	m	line:450
+PSSAC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1991;"	m	line:1991
+PSSAC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	403;"	m	line:403
+PSSAC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	457;"	m	line:457
+PSSAC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1992;"	m	line:1992
+PSSAC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	404;"	m	line:404
+PSSAC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	458;"	m	line:458
+PSSBD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1983;"	m	line:1983
+PSSBD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	395;"	m	line:395
+PSSBD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	449;"	m	line:449
+PSSBD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1989;"	m	line:1989
+PSSBD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	401;"	m	line:401
+PSSBD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	455;"	m	line:455
+PSSBD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1990;"	m	line:1990
+PSSBD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	402;"	m	line:402
+PSSBD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	456;"	m	line:456
+PTR_BASE::DWORD	C:\project\ExRobot\Inc\Compiler.h	93;"	d	line:93
+PTR_BASE::WORD	C:\project\ExRobot\Inc\Compiler.h	96;"	d	line:96
+PTR_BASE::WORD	C:\project\ExRobot\Inc\Compiler.h	99;"	d	line:99
+PUBLIC::	C:\project\ExRobot\Inc\GenericTypeDefs.h	55;"	d	line:55
+QWORD	C:\project\ExRobot\Inc\GenericTypeDefs.h	62;"	t	line:62
+QWORD_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	288;"	t	line:288
+R	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2347;"	m	line:2347
+R	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2397;"	m	line:2397
+R	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	349;"	m	line:349
+RA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1200;"	m	line:1200
+RA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1219;"	m	line:1219
+RA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	779;"	m	line:779
+RA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1201;"	m	line:1201
+RA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1220;"	m	line:1220
+RA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	780;"	m	line:780
+RA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1202;"	m	line:1202
+RA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1221;"	m	line:1221
+RA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	781;"	m	line:781
+RA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1203;"	m	line:1203
+RA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1222;"	m	line:1222
+RA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	782;"	m	line:782
+RA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1204;"	m	line:1204
+RA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1223;"	m	line:1223
+RA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	783;"	m	line:783
+RA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1205;"	m	line:1205
+RA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1224;"	m	line:1224
+RA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	784;"	m	line:784
+RB0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1240;"	m	line:1240
+RB0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1263;"	m	line:1263
+RB0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	806;"	m	line:806
+RB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1241;"	m	line:1241
+RB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1264;"	m	line:1264
+RB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	807;"	m	line:807
+RB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1242;"	m	line:1242
+RB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1265;"	m	line:1265
+RB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	808;"	m	line:808
+RB3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1243;"	m	line:1243
+RB3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1266;"	m	line:1266
+RB3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	809;"	m	line:809
+RB4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1244;"	m	line:1244
+RB4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1267;"	m	line:1267
+RB4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	810;"	m	line:810
+RB5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1245;"	m	line:1245
+RB5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1268;"	m	line:1268
+RB5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	811;"	m	line:811
+RB6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1246;"	m	line:1246
+RB6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1269;"	m	line:1269
+RB6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	812;"	m	line:812
+RB7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1247;"	m	line:1247
+RB7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1270;"	m	line:1270
+RB7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	813;"	m	line:813
+RBIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2602;"	m	line:2602
+RBIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2599;"	m	line:2599
+RBIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2580;"	m	line:2580
+RBPU	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2593;"	m	line:2593
+RC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1286;"	m	line:1286
+RC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1309;"	m	line:1309
+RC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	841;"	m	line:841
+RC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1287;"	m	line:1287
+RC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1310;"	m	line:1310
+RC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	842;"	m	line:842
+RC1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1628;"	m	line:1628
+RC1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1647;"	m	line:1647
+RC1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1669;"	m	line:1669
+RC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1288;"	m	line:1288
+RC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1311;"	m	line:1311
+RC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	843;"	m	line:843
+RC2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1738;"	m	line:1738
+RC2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1749;"	m	line:1749
+RC2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1760;"	m	line:1760
+RC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1289;"	m	line:1289
+RC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1312;"	m	line:1312
+RC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	844;"	m	line:844
+RC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1290;"	m	line:1290
+RC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1313;"	m	line:1313
+RC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	845;"	m	line:845
+RC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1291;"	m	line:1291
+RC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1314;"	m	line:1314
+RC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	846;"	m	line:846
+RC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1292;"	m	line:1292
+RC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1315;"	m	line:1315
+RC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	847;"	m	line:847
+RC7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1293;"	m	line:1293
+RC7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1316;"	m	line:1316
+RC7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	848;"	m	line:848
+RC8_9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1796;"	m	line:1796
+RC8_9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1832;"	m	line:1832
+RC8_9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	497;"	m	line:497
+RC9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1788;"	m	line:1788
+RC9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1824;"	m	line:1824
+RC9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	489;"	m	line:489
+RCD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1786;"	m	line:1786
+RCD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1822;"	m	line:1822
+RCD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	487;"	m	line:487
+RCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2226;"	m	line:2226
+RCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2251;"	m	line:2251
+RCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	241;"	m	line:241
+RCEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	263;"	m	line:263
+RCIDL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	648;"	m	line:648
+RCIDL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	677;"	m	line:677
+RCIDL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	707;"	m	line:707
+RCIDL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	726;"	m	line:726
+RCIDL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	745;"	m	line:745
+RCIDL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	764;"	m	line:764
+RCIDL2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	664;"	m	line:664
+RCIDL2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	693;"	m	line:693
+RCIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1636;"	m	line:1636
+RCIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1654;"	m	line:1654
+RCIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1677;"	m	line:1677
+RCMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	655;"	m	line:655
+RCMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	684;"	m	line:684
+RCMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	714;"	m	line:714
+RCMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	733;"	m	line:733
+RCMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	752;"	m	line:752
+RCMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	771;"	m	line:771
+RD	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	948;"	m	line:948
+RD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1332;"	m	line:1332
+RD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1355;"	m	line:1355
+RD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	892;"	m	line:892
+RD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1333;"	m	line:1333
+RD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1356;"	m	line:1356
+RD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	893;"	m	line:893
+RD16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1932;"	m	line:1932
+RD16	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2434;"	m	line:2434
+RD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1334;"	m	line:1334
+RD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1357;"	m	line:1357
+RD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	894;"	m	line:894
+RD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1335;"	m	line:1335
+RD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1358;"	m	line:1358
+RD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	895;"	m	line:895
+RD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1336;"	m	line:1336
+RD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1359;"	m	line:1359
+RD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	896;"	m	line:896
+RD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1337;"	m	line:1337
+RD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1360;"	m	line:1360
+RD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	897;"	m	line:897
+RD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1338;"	m	line:1338
+RD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1361;"	m	line:1361
+RD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	898;"	m	line:898
+RD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1339;"	m	line:1339
+RD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1362;"	m	line:1362
+RD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	899;"	m	line:899
+RDPU	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1099;"	m	line:1099
+RE0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1378;"	m	line:1378
+RE0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1401;"	m	line:1401
+RE0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	938;"	m	line:938
+RE1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1379;"	m	line:1379
+RE1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1402;"	m	line:1402
+RE1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	939;"	m	line:939
+RE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1380;"	m	line:1380
+RE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1403;"	m	line:1403
+RE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	940;"	m	line:940
+RE3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1381;"	m	line:1381
+RE3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1404;"	m	line:1404
+RE3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	941;"	m	line:941
+RE4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1382;"	m	line:1382
+RE4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1405;"	m	line:1405
+RE4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	942;"	m	line:942
+RE5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1383;"	m	line:1383
+RE5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1406;"	m	line:1406
+RE5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	943;"	m	line:943
+RE6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1384;"	m	line:1384
+RE6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1407;"	m	line:1407
+RE6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	944;"	m	line:944
+RE7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1385;"	m	line:1385
+RE7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1408;"	m	line:1408
+RE7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	945;"	m	line:945
+READ_WRITE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2341;"	m	line:2341
+READ_WRITE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2391;"	m	line:2391
+READ_WRITE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	343;"	m	line:343
+REPU	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1098;"	m	line:1098
+RF0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1424;"	m	line:1424
+RF0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1447;"	m	line:1447
+RF0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	975;"	m	line:975
+RF1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1425;"	m	line:1425
+RF1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1448;"	m	line:1448
+RF1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	976;"	m	line:976
+RF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1426;"	m	line:1426
+RF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1449;"	m	line:1449
+RF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	977;"	m	line:977
+RF3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1427;"	m	line:1427
+RF3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1450;"	m	line:1450
+RF3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	978;"	m	line:978
+RF4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1428;"	m	line:1428
+RF4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1451;"	m	line:1451
+RF4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	979;"	m	line:979
+RF5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1429;"	m	line:1429
+RF5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1452;"	m	line:1452
+RF5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	980;"	m	line:980
+RF6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1430;"	m	line:1430
+RF6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1453;"	m	line:1453
+RF6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	981;"	m	line:981
+RF7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1431;"	m	line:1431
+RF7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1454;"	m	line:1454
+RF7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	982;"	m	line:982
+RG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1012;"	m	line:1012
+RG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1470;"	m	line:1470
+RG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1493;"	m	line:1493
+RG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1013;"	m	line:1013
+RG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1471;"	m	line:1471
+RG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1494;"	m	line:1494
+RG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1014;"	m	line:1014
+RG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1472;"	m	line:1472
+RG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1495;"	m	line:1495
+RG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1015;"	m	line:1015
+RG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1473;"	m	line:1473
+RG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1496;"	m	line:1496
+RG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1016;"	m	line:1016
+RG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1474;"	m	line:1474
+RG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1497;"	m	line:1497
+RG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1017;"	m	line:1017
+RG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1475;"	m	line:1475
+RG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1498;"	m	line:1498
+RG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1018;"	m	line:1018
+RG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1476;"	m	line:1476
+RG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1499;"	m	line:1499
+RG7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1019;"	m	line:1019
+RG7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1477;"	m	line:1477
+RG7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1500;"	m	line:1500
+RH0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1037;"	m	line:1037
+RH0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1516;"	m	line:1516
+RH0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1539;"	m	line:1539
+RH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1038;"	m	line:1038
+RH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1517;"	m	line:1517
+RH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1540;"	m	line:1540
+RH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1039;"	m	line:1039
+RH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1518;"	m	line:1518
+RH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1541;"	m	line:1541
+RH3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1040;"	m	line:1040
+RH3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1519;"	m	line:1519
+RH3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1542;"	m	line:1542
+RH4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1041;"	m	line:1041
+RH4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1520;"	m	line:1520
+RH4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1543;"	m	line:1543
+RH5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1042;"	m	line:1042
+RH5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1521;"	m	line:1521
+RH5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1544;"	m	line:1544
+RH6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1043;"	m	line:1043
+RH6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1522;"	m	line:1522
+RH6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1545;"	m	line:1545
+RH7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1044;"	m	line:1044
+RH7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1523;"	m	line:1523
+RH7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1546;"	m	line:1546
+RI	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2466;"	m	line:2466
+RJ0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1060;"	m	line:1060
+RJ0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1562;"	m	line:1562
+RJ0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1585;"	m	line:1585
+RJ1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1061;"	m	line:1061
+RJ1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1563;"	m	line:1563
+RJ1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1586;"	m	line:1586
+RJ2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1062;"	m	line:1062
+RJ2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1564;"	m	line:1564
+RJ2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1587;"	m	line:1587
+RJ3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1063;"	m	line:1063
+RJ3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1565;"	m	line:1565
+RJ3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1588;"	m	line:1588
+RJ4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1064;"	m	line:1064
+RJ4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1566;"	m	line:1566
+RJ4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1589;"	m	line:1589
+RJ5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1065;"	m	line:1065
+RJ5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1567;"	m	line:1567
+RJ5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1590;"	m	line:1590
+RJ6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1066;"	m	line:1066
+RJ6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1568;"	m	line:1568
+RJ6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1591;"	m	line:1591
+RJ7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1067;"	m	line:1067
+RJ7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1569;"	m	line:1569
+RJ7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1592;"	m	line:1592
+RJPU	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	786;"	m	line:786
+ROM::const	C:\project\ExRobot\Inc\Compiler.h	133;"	d	line:133
+ROM::const	C:\project\ExRobot\Inc\Compiler.h	143;"	d	line:143
+ROM::rom	C:\project\ExRobot\Inc\Compiler.h	127;"	d	line:127
+ROM_PTR_BASE::DWORD	C:\project\ExRobot\Inc\Compiler.h	94;"	d	line:94
+ROM_PTR_BASE::WORD	C:\project\ExRobot\Inc\Compiler.h	97;"	d	line:97
+ROM_PTR_BASE::unsignedshortlong	C:\project\ExRobot\Inc\Compiler.h	100;"	d	line:100
+RSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2224;"	m	line:2224
+RSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2249;"	m	line:2249
+RSEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	239;"	m	line:239
+RSEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	261;"	m	line:261
+RW2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	356;"	m	line:356
+RX	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	858;"	m	line:858
+RX1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	878;"	m	line:878
+RX2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1024;"	m	line:1024
+RX9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1782;"	m	line:1782
+RX9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1818;"	m	line:1818
+RX9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	483;"	m	line:483
+RX91	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1805;"	m	line:1805
+RX91	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1841;"	m	line:1841
+RX92	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	506;"	m	line:506
+RX9D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1776;"	m	line:1776
+RX9D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1812;"	m	line:1812
+RX9D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	477;"	m	line:477
+RX9D1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1799;"	m	line:1799
+RX9D1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1835;"	m	line:1835
+RX9D2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	500;"	m	line:500
+RXBUSY	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	203;"	m	line:203
+RXDTP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	647;"	m	line:647
+RXDTP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	676;"	m	line:676
+RXDTP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	706;"	m	line:706
+RXDTP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	725;"	m	line:725
+RXDTP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	744;"	m	line:744
+RXDTP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	763;"	m	line:763
+RXDTP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	663;"	m	line:663
+RXDTP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	692;"	m	line:692
+RXEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2481;"	m	line:2481
+RXERIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	186;"	m	line:186
+RXERIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	216;"	m	line:216
+RXPAUS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	63;"	m	line:63
+RXRST	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2485;"	m	line:2485
+R_MOTOR_BREAK::(PORTGbits.RG1)	C:\project\ExRobot\Inc\HardwareProfile.h	159;"	d	line:159
+R_MOTOR_BREAK_TRIS::(TRISGbits.TRISG1)	C:\project\ExRobot\Inc\HardwareProfile.h	158;"	d	line:158
+R_MOTOR_FB1	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+R_MOTOR_FB1	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+R_MOTOR_FB1::(PORTJbits.RJ6)	C:\project\ExRobot\Inc\HardwareProfile.h	135;"	d	line:135
+R_MOTOR_FB1_TRIS::(TRISJbits.TRISJ6)	C:\project\ExRobot\Inc\HardwareProfile.h	134;"	d	line:134
+R_MOTOR_PHASE::(PORTGbits.RG2)	C:\project\ExRobot\Inc\HardwareProfile.h	157;"	d	line:157
+R_MOTOR_PHASE_TRIS::(TRISGbits.TRISG2)	C:\project\ExRobot\Inc\HardwareProfile.h	156;"	d	line:156
+R_MOTOR_PWM::(PORTGbits.RG3)	C:\project\ExRobot\Inc\HardwareProfile.h	155;"	d	line:155
+R_MOTOR_PWM_TRIS::(TRISGbits.TRISG3)	C:\project\ExRobot\Inc\HardwareProfile.h	154;"	d	line:154
+R_NOT_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2307;"	m	line:2307
+R_NOT_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2357;"	m	line:2357
+R_NOT_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	309;"	m	line:309
+R_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2316;"	m	line:2316
+R_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2366;"	m	line:2366
+R_W	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	318;"	m	line:318
+R_WHITE_LINE_SENSE	C:\project\ExRobot\Src\main.c	79;"	l	line:79
+R_WHITE_LINE_SENSE	C:\project\ExRobot\Src\main.c	90;"	l	line:90
+R_WHITE_LINE_SENSE::(PORTDbits.RD0)	C:\project\ExRobot\Inc\HardwareProfile.h	151;"	d	line:151
+R_WHITE_LINE_SENSE_TRIS::(TRISDbits.TRISD0)	C:\project\ExRobot\Inc\HardwareProfile.h	150;"	d	line:150
+ReadStringUART	C:\project\ExRobot\Src\UART.c	56;"	f	line:56	signature:(BYTE *Dest, BYTE BufferLen)
+ReadUART2	C:\project\ExRobot\Inc\UART.h	71;"	p	line:71	signature:(void)
+ReadUART2	C:\project\ExRobot\Src\UART.c	262;"	f	line:262	signature:(void)
+ReadUART::ReadUSART	C:\project\ExRobot\Inc\HardwareProfile.h	224;"	d	line:224
+ReadUSART	C:\project\ExRobot\Inc\UART.h	59;"	p	line:59	signature:(void)
+ReadUSART	C:\project\ExRobot\Src\UART.c	104;"	f	line:104	signature:(void)
+Reset::SoftReset	C:\project\ExRobot\Inc\Compiler.h	156;"	d	line:156
+Reset::asm("RESET");	C:\project\ExRobot\Inc\Compiler.h	137;"	d	line:137
+Reset::asm("reset")	C:\project\ExRobot\Inc\Compiler.h	147;"	d	line:147
+Reset::{_asmreset_endasm}	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2779;"	d	line:2779
+Rlcf::(f,dest,access){_asmmovlbfrlcf	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2781;"	d	line:2781
+Rlncf::(f,dest,access){_asmmovlbfrlnc	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2782;"	d	line:2782
+Rrcf::(f,dest,access){_asmmovlbfrrcf	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2783;"	d	line:2783
+Rrncf::(f,dest,access){_asmmovlbfrrnc	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2784;"	d	line:2784
+S	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2308;"	m	line:2308
+S	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2358;"	m	line:2358
+S	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	310;"	m	line:310
+SCAN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	47;"	m	line:47
+SCK	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	854;"	m	line:854
+SCK1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	874;"	m	line:874
+SCK2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	931;"	m	line:931
+SCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	653;"	m	line:653
+SCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	682;"	m	line:682
+SCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	712;"	m	line:712
+SCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	731;"	m	line:731
+SCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	750;"	m	line:750
+SCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	769;"	m	line:769
+SCL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	864;"	m	line:864
+SCL1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	882;"	m	line:882
+SCL2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	924;"	m	line:924
+SCS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2491;"	m	line:2491
+SCS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2498;"	m	line:2498
+SCS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2499;"	m	line:2499
+SDA	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	865;"	m	line:865
+SDA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	883;"	m	line:883
+SDA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	923;"	m	line:923
+SDI	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	855;"	m	line:855
+SDI1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	875;"	m	line:875
+SDI2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	930;"	m	line:930
+SDO	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	856;"	m	line:856
+SDO1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	876;"	m	line:876
+SDO2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	929;"	m	line:929
+SEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2223;"	m	line:2223
+SEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2248;"	m	line:2248
+SEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	238;"	m	line:238
+SEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	260;"	m	line:260
+SENDB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1851;"	m	line:1851
+SENDB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1883;"	m	line:1883
+SENDB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	516;"	m	line:516
+SENDB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1870;"	m	line:1870
+SENDB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1902;"	m	line:1902
+SENDB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	535;"	m	line:535
+SET_CONFIGURATION_BIT_ONCE	C:\project\ExRobot\Src\main.c	1;"	d	line:1	file:
+SHORT	C:\project\ExRobot\Inc\GenericTypeDefs.h	64;"	t	line:64
+SMP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2312;"	m	line:2312
+SMP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2362;"	m	line:2362
+SMP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	314;"	m	line:314
+SMP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	361;"	m	line:361
+SP0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2654;"	m	line:2654
+SP1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2655;"	m	line:2655
+SP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2656;"	m	line:2656
+SP3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2657;"	m	line:2657
+SP4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2658;"	m	line:2658
+SPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1783;"	m	line:1783
+SPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1819;"	m	line:1819
+SPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	484;"	m	line:484
+SPEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1806;"	m	line:1806
+SPEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1842;"	m	line:1842
+SPEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	507;"	m	line:507
+SREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1781;"	m	line:1781
+SREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1817;"	m	line:1817
+SREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	482;"	m	line:482
+SREN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1804;"	m	line:1804
+SREN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1840;"	m	line:1840
+SREN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	505;"	m	line:505
+SS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	992;"	m	line:992
+SS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1002;"	m	line:1002
+SS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	925;"	m	line:925
+SSP1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1626;"	m	line:1626
+SSP1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1645;"	m	line:1645
+SSP1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1667;"	m	line:1667
+SSP2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1740;"	m	line:1740
+SSP2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1751;"	m	line:1751
+SSP2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1762;"	m	line:1762
+SSPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2275;"	m	line:2275
+SSPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2291;"	m	line:2291
+SSPEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	283;"	m	line:283
+SSPEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	299;"	m	line:299
+SSPIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1634;"	m	line:1634
+SSPIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1658;"	m	line:1658
+SSPIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1675;"	m	line:1675
+SSPM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2273;"	m	line:2273
+SSPM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2289;"	m	line:2289
+SSPM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	281;"	m	line:281
+SSPM0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2280;"	m	line:2280
+SSPM0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2296;"	m	line:2296
+SSPM0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	288;"	m	line:288
+SSPM02	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	294;"	m	line:294
+SSPM1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2281;"	m	line:2281
+SSPM1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2297;"	m	line:2297
+SSPM1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	289;"	m	line:289
+SSPM12	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	295;"	m	line:295
+SSPM2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2282;"	m	line:2282
+SSPM2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2298;"	m	line:2298
+SSPM2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	290;"	m	line:290
+SSPM22	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	296;"	m	line:296
+SSPM3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2283;"	m	line:2283
+SSPM3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2299;"	m	line:2299
+SSPM3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	291;"	m	line:291
+SSPM32	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	297;"	m	line:297
+SSPOV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2276;"	m	line:2276
+SSPOV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2292;"	m	line:2292
+SSPOV	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	284;"	m	line:284
+SSPOV2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	300;"	m	line:300
+START2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	357;"	m	line:357
+STKFUL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2642;"	m	line:2642
+STKOVF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2651;"	m	line:2651
+STKPTR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2639;"	m	line:2639
+STKPTR0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2645;"	m	line:2645
+STKPTR1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2646;"	m	line:2646
+STKPTR2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2647;"	m	line:2647
+STKPTR3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2648;"	m	line:2648
+STKPTR4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2649;"	m	line:2649
+STKUNF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2641;"	m	line:2641
+STOP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	358;"	m	line:358
+SWDTE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2475;"	m	line:2475
+SWDTEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2472;"	m	line:2472
+SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1852;"	m	line:1852
+SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1884;"	m	line:1884
+SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	517;"	m	line:517
+SYNC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1871;"	m	line:1871
+SYNC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1903;"	m	line:1903
+SYNC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	536;"	m	line:536
+Sleep::{_asmsleep_endasm}	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2778;"	d	line:2778
+Swapf::(f,dest,access){_asmmovlbfswap	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2785;"	d	line:2785
+T08BIT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2509;"	m	line:2509
+T0CKI	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	793;"	m	line:793
+T0CS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2508;"	m	line:2508
+T0IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2614;"	m	line:2614
+T0IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2611;"	m	line:2611
+T0IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2591;"	m	line:2591
+T0PS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2505;"	m	line:2505
+T0PS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2513;"	m	line:2513
+T0PS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2514;"	m	line:2514
+T0PS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2515;"	m	line:2515
+T0SE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2507;"	m	line:2507
+T13CKI	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	861;"	m	line:861
+T1CKPS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2432;"	m	line:2432
+T1CKPS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2440;"	m	line:2440
+T1CKPS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2441;"	m	line:2441
+T1INSYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2445;"	m	line:2445
+T1OSCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2431;"	m	line:2431
+T1OSI	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	852;"	m	line:852
+T1OSO	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	851;"	m	line:851
+T1RUN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2433;"	m	line:2433
+T1SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2438;"	m	line:2438
+T2CKPS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2409;"	m	line:2409
+T2CKPS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2414;"	m	line:2414
+T2CKPS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2415;"	m	line:2415
+T2OUTPS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2417;"	m	line:2417
+T2OUTPS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2418;"	m	line:2418
+T2OUTPS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2419;"	m	line:2419
+T2OUTPS3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2420;"	m	line:2420
+T3CCP1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1929;"	m	line:1929
+T3CCP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1931;"	m	line:1931
+T3CKPS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1930;"	m	line:1930
+T3CKPS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1938;"	m	line:1938
+T3CKPS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1939;"	m	line:1939
+T3INSYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1943;"	m	line:1943
+T3SYNC	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1936;"	m	line:1936
+T4CKPS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	594;"	m	line:594
+T4CKPS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	599;"	m	line:599
+T4CKPS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	600;"	m	line:600
+T4OUTPS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	596;"	m	line:596
+T4OUTPS0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	602;"	m	line:602
+T4OUTPS1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	603;"	m	line:603
+T4OUTPS2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	604;"	m	line:604
+T4OUTPS3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	605;"	m	line:605
+TMR0IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2604;"	m	line:2604
+TMR0IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2601;"	m	line:2601
+TMR0IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2582;"	m	line:2582
+TMR0ON	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2510;"	m	line:2510
+TMR1CS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2429;"	m	line:2429
+TMR1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1623;"	m	line:1623
+TMR1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1642;"	m	line:1642
+TMR1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1664;"	m	line:1664
+TMR1ON	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2428;"	m	line:2428
+TMR2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1624;"	m	line:1624
+TMR2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1643;"	m	line:1643
+TMR2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1665;"	m	line:1665
+TMR2ON	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2410;"	m	line:2410
+TMR3CS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1927;"	m	line:1927
+TMR3IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1684;"	m	line:1684
+TMR3IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1701;"	m	line:1701
+TMR3IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1718;"	m	line:1718
+TMR3ON	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1926;"	m	line:1926
+TMR4IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1736;"	m	line:1736
+TMR4IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1747;"	m	line:1747
+TMR4IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1758;"	m	line:1758
+TMR4ON	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	595;"	m	line:595
+TO	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2465;"	m	line:2465
+TOUTPS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2411;"	m	line:2411
+TRISA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1192;"	m	line:1192
+TRISA0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1211;"	m	line:1211
+TRISA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1193;"	m	line:1193
+TRISA1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1212;"	m	line:1212
+TRISA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1194;"	m	line:1194
+TRISA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1213;"	m	line:1213
+TRISA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1195;"	m	line:1195
+TRISA3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1214;"	m	line:1214
+TRISA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1196;"	m	line:1196
+TRISA4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1215;"	m	line:1215
+TRISA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1197;"	m	line:1197
+TRISA5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1216;"	m	line:1216
+TRISB0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1230;"	m	line:1230
+TRISB0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1253;"	m	line:1253
+TRISB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1231;"	m	line:1231
+TRISB1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1254;"	m	line:1254
+TRISB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1232;"	m	line:1232
+TRISB2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1255;"	m	line:1255
+TRISB3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1233;"	m	line:1233
+TRISB3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1256;"	m	line:1256
+TRISB4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1234;"	m	line:1234
+TRISB4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1257;"	m	line:1257
+TRISB5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1235;"	m	line:1235
+TRISB5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1258;"	m	line:1258
+TRISB6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1236;"	m	line:1236
+TRISB6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1259;"	m	line:1259
+TRISB7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1237;"	m	line:1237
+TRISB7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1260;"	m	line:1260
+TRISC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1276;"	m	line:1276
+TRISC0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1299;"	m	line:1299
+TRISC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1277;"	m	line:1277
+TRISC1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1300;"	m	line:1300
+TRISC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1278;"	m	line:1278
+TRISC2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1301;"	m	line:1301
+TRISC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1279;"	m	line:1279
+TRISC3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1302;"	m	line:1302
+TRISC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1280;"	m	line:1280
+TRISC4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1303;"	m	line:1303
+TRISC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1281;"	m	line:1281
+TRISC5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1304;"	m	line:1304
+TRISC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1282;"	m	line:1282
+TRISC6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1305;"	m	line:1305
+TRISC7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1283;"	m	line:1283
+TRISC7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1306;"	m	line:1306
+TRISD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1322;"	m	line:1322
+TRISD0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1345;"	m	line:1345
+TRISD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1323;"	m	line:1323
+TRISD1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1346;"	m	line:1346
+TRISD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1324;"	m	line:1324
+TRISD2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1347;"	m	line:1347
+TRISD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1325;"	m	line:1325
+TRISD3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1348;"	m	line:1348
+TRISD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1326;"	m	line:1326
+TRISD4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1349;"	m	line:1349
+TRISD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1327;"	m	line:1327
+TRISD5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1350;"	m	line:1350
+TRISD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1328;"	m	line:1328
+TRISD6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1351;"	m	line:1351
+TRISD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1329;"	m	line:1329
+TRISD7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1352;"	m	line:1352
+TRISE0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1368;"	m	line:1368
+TRISE0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1391;"	m	line:1391
+TRISE1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1369;"	m	line:1369
+TRISE1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1392;"	m	line:1392
+TRISE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1370;"	m	line:1370
+TRISE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1393;"	m	line:1393
+TRISE3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1371;"	m	line:1371
+TRISE3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1394;"	m	line:1394
+TRISE4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1372;"	m	line:1372
+TRISE4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1395;"	m	line:1395
+TRISE5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1373;"	m	line:1373
+TRISE5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1396;"	m	line:1396
+TRISE6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1374;"	m	line:1374
+TRISE6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1397;"	m	line:1397
+TRISE7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1375;"	m	line:1375
+TRISE7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1398;"	m	line:1398
+TRISF0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1414;"	m	line:1414
+TRISF0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1437;"	m	line:1437
+TRISF1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1415;"	m	line:1415
+TRISF1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1438;"	m	line:1438
+TRISF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1416;"	m	line:1416
+TRISF2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1439;"	m	line:1439
+TRISF3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1417;"	m	line:1417
+TRISF3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1440;"	m	line:1440
+TRISF4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1418;"	m	line:1418
+TRISF4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1441;"	m	line:1441
+TRISF5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1419;"	m	line:1419
+TRISF5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1442;"	m	line:1442
+TRISF6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1420;"	m	line:1420
+TRISF6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1443;"	m	line:1443
+TRISF7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1421;"	m	line:1421
+TRISF7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1444;"	m	line:1444
+TRISG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1460;"	m	line:1460
+TRISG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1483;"	m	line:1483
+TRISG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1461;"	m	line:1461
+TRISG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1484;"	m	line:1484
+TRISG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1462;"	m	line:1462
+TRISG2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1485;"	m	line:1485
+TRISG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1463;"	m	line:1463
+TRISG3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1486;"	m	line:1486
+TRISG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1464;"	m	line:1464
+TRISG4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1487;"	m	line:1487
+TRISG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1465;"	m	line:1465
+TRISG5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1488;"	m	line:1488
+TRISG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1466;"	m	line:1466
+TRISG6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1489;"	m	line:1489
+TRISG7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1467;"	m	line:1467
+TRISG7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1490;"	m	line:1490
+TRISH0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1506;"	m	line:1506
+TRISH0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1529;"	m	line:1529
+TRISH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1507;"	m	line:1507
+TRISH1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1530;"	m	line:1530
+TRISH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1508;"	m	line:1508
+TRISH2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1531;"	m	line:1531
+TRISH3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1509;"	m	line:1509
+TRISH3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1532;"	m	line:1532
+TRISH4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1510;"	m	line:1510
+TRISH4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1533;"	m	line:1533
+TRISH5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1511;"	m	line:1511
+TRISH5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1534;"	m	line:1534
+TRISH6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1512;"	m	line:1512
+TRISH6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1535;"	m	line:1535
+TRISH7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1513;"	m	line:1513
+TRISH7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1536;"	m	line:1536
+TRISJ0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1552;"	m	line:1552
+TRISJ0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1575;"	m	line:1575
+TRISJ1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1553;"	m	line:1553
+TRISJ1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1576;"	m	line:1576
+TRISJ2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1554;"	m	line:1554
+TRISJ2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1577;"	m	line:1577
+TRISJ3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1555;"	m	line:1555
+TRISJ3	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1578;"	m	line:1578
+TRISJ4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1556;"	m	line:1556
+TRISJ4	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1579;"	m	line:1579
+TRISJ5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1557;"	m	line:1557
+TRISJ5	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1580;"	m	line:1580
+TRISJ6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1558;"	m	line:1558
+TRISJ6	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1581;"	m	line:1581
+TRISJ7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1559;"	m	line:1559
+TRISJ7	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1582;"	m	line:1582
+TRMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1849;"	m	line:1849
+TRMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1881;"	m	line:1881
+TRMT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	514;"	m	line:514
+TRMT1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1868;"	m	line:1868
+TRMT1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1900;"	m	line:1900
+TRMT2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	533;"	m	line:533
+TRUE	C:\project\ExRobot\Inc\GenericTypeDefs.h	49;"	e	line:49	enum:_BOOL
+TX	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	857;"	m	line:857
+TX1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	877;"	m	line:877
+TX1IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1627;"	m	line:1627
+TX1IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1646;"	m	line:1646
+TX1IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1668;"	m	line:1668
+TX2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1023;"	m	line:1023
+TX2IE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1737;"	m	line:1737
+TX2IF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1748;"	m	line:1748
+TX2IP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1759;"	m	line:1759
+TX8_9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1860;"	m	line:1860
+TX8_9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1892;"	m	line:1892
+TX8_9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	525;"	m	line:525
+TX9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1854;"	m	line:1854
+TX9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1886;"	m	line:1886
+TX9	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	519;"	m	line:519
+TX91	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1873;"	m	line:1873
+TX91	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1905;"	m	line:1905
+TX92	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	538;"	m	line:538
+TX9D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1848;"	m	line:1848
+TX9D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1880;"	m	line:1880
+TX9D	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	513;"	m	line:513
+TX9D1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1867;"	m	line:1867
+TX9D1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1899;"	m	line:1899
+TX9D2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	532;"	m	line:532
+TXABRT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	202;"	m	line:202
+TXCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	646;"	m	line:646
+TXCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	675;"	m	line:675
+TXCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	705;"	m	line:705
+TXCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	724;"	m	line:724
+TXCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	743;"	m	line:743
+TXCKP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	762;"	m	line:762
+TXCKP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	662;"	m	line:662
+TXCKP2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	691;"	m	line:691
+TXCRCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	73;"	m	line:73
+TXD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1858;"	m	line:1858
+TXD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1890;"	m	line:1890
+TXD8	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	523;"	m	line:523
+TXEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1853;"	m	line:1853
+TXEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1885;"	m	line:1885
+TXEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	518;"	m	line:518
+TXEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1872;"	m	line:1872
+TXEN1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1904;"	m	line:1904
+TXEN2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	537;"	m	line:537
+TXERIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	187;"	m	line:187
+TXERIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	217;"	m	line:217
+TXIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1635;"	m	line:1635
+TXIE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	189;"	m	line:189
+TXIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1653;"	m	line:1653
+TXIF	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	219;"	m	line:219
+TXIP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1676;"	m	line:1676
+TXPAUS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	64;"	m	line:64
+TXRST	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2486;"	m	line:2486
+TXRTS	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2482;"	m	line:2482
+UA	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2306;"	m	line:2306
+UA	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2356;"	m	line:2356
+UA	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	308;"	m	line:308
+UA2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	355;"	m	line:355
+UB	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1077;"	m	line:1077
+UB	C:\project\ExRobot\Inc\GenericTypeDefs.h	150;"	m	line:150	struct:_DWORD_VAL::<anonymous>
+UCEN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	147;"	m	line:147
+UCHAR8	C:\project\ExRobot\Inc\GenericTypeDefs.h	72;"	t	line:72
+UINT	C:\project\ExRobot\Inc\GenericTypeDefs.h	84;"	t	line:84
+UINT16	C:\project\ExRobot\Inc\GenericTypeDefs.h	86;"	t	line:86
+UINT32	C:\project\ExRobot\Inc\GenericTypeDefs.h	87;"	t	line:87
+UINT64	C:\project\ExRobot\Inc\GenericTypeDefs.h	88;"	t	line:88
+UINT8	C:\project\ExRobot\Inc\GenericTypeDefs.h	85;"	t	line:85
+UPPER_LSB::(a)((a).v[2])	C:\project\ExRobot\Inc\GenericTypeDefs.h	200;"	d	line:200
+UPPER_MSB::(a)((a).v[3])	C:\project\ExRobot\Inc\GenericTypeDefs.h	201;"	d	line:201
+UW	C:\project\ExRobot\Inc\GenericTypeDefs.h	218;"	m	line:218	struct:_QWORD_VAL::<anonymous>
+VCFG	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2176;"	m	line:2176
+VCFG0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2183;"	m	line:2183
+VCFG1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2184;"	m	line:2184
+VOID	C:\project\ExRobot\Inc\GenericTypeDefs.h	69;"	t	line:69
+VREFM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	799;"	m	line:799
+VREFP	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	800;"	m	line:800
+Val	C:\project\ExRobot\Inc\GenericTypeDefs.h	108;"	m	line:108	union:_WORD_VAL
+Val	C:\project\ExRobot\Inc\GenericTypeDefs.h	138;"	m	line:138	union:_DWORD_VAL
+Val	C:\project\ExRobot\Inc\GenericTypeDefs.h	205;"	m	line:205	union:_QWORD_VAL
+Val	C:\project\ExRobot\Inc\GenericTypeDefs.h	92;"	m	line:92	union:_BYTE_VAL
+WAIT	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1608;"	m	line:1608
+WAIT0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1616;"	m	line:1616
+WAIT1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1617;"	m	line:1617
+WCOL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2277;"	m	line:2277
+WCOL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2293;"	m	line:2293
+WCOL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	285;"	m	line:285
+WCOL2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	301;"	m	line:301
+WM	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1606;"	m	line:1606
+WM0	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1613;"	m	line:1613
+WM1	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1614;"	m	line:1614
+WORD	C:\project\ExRobot\Inc\GenericTypeDefs.h	60;"	t	line:60
+WORD_BITS	C:\project\ExRobot\Inc\GenericTypeDefs.h	134;"	t	line:134
+WORD_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	134;"	t	line:134
+WR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1767;"	m	line:1767
+WR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	949;"	m	line:949
+WREN	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1768;"	m	line:1768
+WRERR	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1769;"	m	line:1769
+WRH	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1073;"	m	line:1073
+WRL	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	1072;"	m	line:1072
+WUE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	643;"	m	line:643
+WUE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	672;"	m	line:672
+WUE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	702;"	m	line:702
+WUE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	721;"	m	line:721
+WUE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	740;"	m	line:740
+WUE	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	759;"	m	line:759
+WUE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	659;"	m	line:659
+WUE2	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	688;"	m	line:688
+WriteUART2	C:\project\ExRobot\Inc\UART.h	72;"	p	line:72	signature:(unsigned int data)
+WriteUART2	C:\project\ExRobot\Src\UART.c	278;"	f	line:278	signature:(unsigned int data)
+WriteUART::(a)WriteUSART(a)	C:\project\ExRobot\Inc\HardwareProfile.h	225;"	d	line:225
+WriteUSART	C:\project\ExRobot\Inc\UART.h	60;"	p	line:60	signature:(char data)
+WriteUSART	C:\project\ExRobot\Src\UART.c	109;"	f	line:109	signature:(char data)
+Z	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	2524;"	m	line:2524
+_BOOL	C:\project\ExRobot\Inc\GenericTypeDefs.h	49;"	g	line:49
+_BYTE_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	90;"	u	line:90
+_DWORD_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	136;"	u	line:136
+_QWORD_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	203;"	u	line:203
+_WORD_VAL	C:\project\ExRobot\Inc\GenericTypeDefs.h	106;"	u	line:106
+__18CXX	C:\project\ExRobot\Inc\Compiler.h	59;"	d	line:59
+__18F97J60_H	C:\Program Files (x86)\Microchip\mplabc18\v3.46\h\p18f97j60.h	36;"	d	line:36
+__C32__	C:\project\ExRobot\Inc\Compiler.h	78;"	d	line:78
+__COMPILER_H	C:\project\ExRobot\Inc\Compiler.h	53;"	d	line:53
+__DELAY_C	C:\project\ExRobot\Src\Delay.c	51;"	d	line:51	file:
+__DELAY_H	C:\project\ExRobot\Inc\Delay.h	54;"	d	line:54
+__GENERIC_TYPE_DEFS_H_	C:\project\ExRobot\Inc\GenericTypeDefs.h	47;"	d	line:47
+__HARDWARE_PROFILE_H	C:\project\ExRobot\Inc\HardwareProfile.h	55;"	d	line:55
+__LCDBLOCKING_C	C:\project\ExRobot\Src\LCDBlocking.c	53;"	d	line:53	file:
+__LCDBLOCKING_H	C:\project\ExRobot\Inc\LCDBlocking.h	52;"	d	line:52
+__UART_C	C:\project\ExRobot\Src\UART.c	51;"	d	line:51	file:
+__UART_H	C:\project\ExRobot\Inc\UART.h	50;"	d	line:50
+__attribute__::(a)	C:\project\ExRobot\Inc\Compiler.h	121;"	d	line:121
+_dcnt	C:\project\ExRobot\Src\Delay.c	74;"	l	line:74
+b0	C:\project\ExRobot\Inc\GenericTypeDefs.h	117;"	m	line:117	struct:_WORD_VAL::<anonymous>
+b0	C:\project\ExRobot\Inc\GenericTypeDefs.h	160;"	m	line:160	struct:_DWORD_VAL::<anonymous>
+b0	C:\project\ExRobot\Inc\GenericTypeDefs.h	223;"	m	line:223	struct:_QWORD_VAL::<anonymous>
+b0	C:\project\ExRobot\Inc\GenericTypeDefs.h	95;"	m	line:95	struct:_BYTE_VAL::<anonymous>
+b1	C:\project\ExRobot\Inc\GenericTypeDefs.h	118;"	m	line:118	struct:_WORD_VAL::<anonymous>
+b1	C:\project\ExRobot\Inc\GenericTypeDefs.h	161;"	m	line:161	struct:_DWORD_VAL::<anonymous>
+b1	C:\project\ExRobot\Inc\GenericTypeDefs.h	224;"	m	line:224	struct:_QWORD_VAL::<anonymous>
+b1	C:\project\ExRobot\Inc\GenericTypeDefs.h	96;"	m	line:96	struct:_BYTE_VAL::<anonymous>
+b10	C:\project\ExRobot\Inc\GenericTypeDefs.h	127;"	m	line:127	struct:_WORD_VAL::<anonymous>
+b10	C:\project\ExRobot\Inc\GenericTypeDefs.h	170;"	m	line:170	struct:_DWORD_VAL::<anonymous>
+b10	C:\project\ExRobot\Inc\GenericTypeDefs.h	233;"	m	line:233	struct:_QWORD_VAL::<anonymous>
+b11	C:\project\ExRobot\Inc\GenericTypeDefs.h	128;"	m	line:128	struct:_WORD_VAL::<anonymous>
+b11	C:\project\ExRobot\Inc\GenericTypeDefs.h	171;"	m	line:171	struct:_DWORD_VAL::<anonymous>
+b11	C:\project\ExRobot\Inc\GenericTypeDefs.h	234;"	m	line:234	struct:_QWORD_VAL::<anonymous>
+b12	C:\project\ExRobot\Inc\GenericTypeDefs.h	129;"	m	line:129	struct:_WORD_VAL::<anonymous>
+b12	C:\project\ExRobot\Inc\GenericTypeDefs.h	172;"	m	line:172	struct:_DWORD_VAL::<anonymous>
+b12	C:\project\ExRobot\Inc\GenericTypeDefs.h	235;"	m	line:235	struct:_QWORD_VAL::<anonymous>
+b13	C:\project\ExRobot\Inc\GenericTypeDefs.h	130;"	m	line:130	struct:_WORD_VAL::<anonymous>
+b13	C:\project\ExRobot\Inc\GenericTypeDefs.h	173;"	m	line:173	struct:_DWORD_VAL::<anonymous>
+b13	C:\project\ExRobot\Inc\GenericTypeDefs.h	236;"	m	line:236	struct:_QWORD_VAL::<anonymous>
+b14	C:\project\ExRobot\Inc\GenericTypeDefs.h	131;"	m	line:131	struct:_WORD_VAL::<anonymous>
+b14	C:\project\ExRobot\Inc\GenericTypeDefs.h	174;"	m	line:174	struct:_DWORD_VAL::<anonymous>
+b14	C:\project\ExRobot\Inc\GenericTypeDefs.h	237;"	m	line:237	struct:_QWORD_VAL::<anonymous>
+b15	C:\project\ExRobot\Inc\GenericTypeDefs.h	132;"	m	line:132	struct:_WORD_VAL::<anonymous>
+b15	C:\project\ExRobot\Inc\GenericTypeDefs.h	175;"	m	line:175	struct:_DWORD_VAL::<anonymous>
+b15	C:\project\ExRobot\Inc\GenericTypeDefs.h	238;"	m	line:238	struct:_QWORD_VAL::<anonymous>
+b16	C:\project\ExRobot\Inc\GenericTypeDefs.h	176;"	m	line:176	struct:_DWORD_VAL::<anonymous>
+b16	C:\project\ExRobot\Inc\GenericTypeDefs.h	239;"	m	line:239	struct:_QWORD_VAL::<anonymous>
+b17	C:\project\ExRobot\Inc\GenericTypeDefs.h	177;"	m	line:177	struct:_DWORD_VAL::<anonymous>
+b17	C:\project\ExRobot\Inc\GenericTypeDefs.h	240;"	m	line:240	struct:_QWORD_VAL::<anonymous>
+b18	C:\project\ExRobot\Inc\GenericTypeDefs.h	178;"	m	line:178	struct:_DWORD_VAL::<anonymous>
+b18	C:\project\ExRobot\Inc\GenericTypeDefs.h	241;"	m	line:241	struct:_QWORD_VAL::<anonymous>
+b19	C:\project\ExRobot\Inc\GenericTypeDefs.h	179;"	m	line:179	struct:_DWORD_VAL::<anonymous>
+b19	C:\project\ExRobot\Inc\GenericTypeDefs.h	242;"	m	line:242	struct:_QWORD_VAL::<anonymous>
+b2	C:\project\ExRobot\Inc\GenericTypeDefs.h	119;"	m	line:119	struct:_WORD_VAL::<anonymous>
+b2	C:\project\ExRobot\Inc\GenericTypeDefs.h	162;"	m	line:162	struct:_DWORD_VAL::<anonymous>
+b2	C:\project\ExRobot\Inc\GenericTypeDefs.h	225;"	m	line:225	struct:_QWORD_VAL::<anonymous>
+b2	C:\project\ExRobot\Inc\GenericTypeDefs.h	97;"	m	line:97	struct:_BYTE_VAL::<anonymous>
+b20	C:\project\ExRobot\Inc\GenericTypeDefs.h	180;"	m	line:180	struct:_DWORD_VAL::<anonymous>
+b20	C:\project\ExRobot\Inc\GenericTypeDefs.h	243;"	m	line:243	struct:_QWORD_VAL::<anonymous>
+b21	C:\project\ExRobot\Inc\GenericTypeDefs.h	181;"	m	line:181	struct:_DWORD_VAL::<anonymous>
+b21	C:\project\ExRobot\Inc\GenericTypeDefs.h	244;"	m	line:244	struct:_QWORD_VAL::<anonymous>
+b22	C:\project\ExRobot\Inc\GenericTypeDefs.h	182;"	m	line:182	struct:_DWORD_VAL::<anonymous>
+b22	C:\project\ExRobot\Inc\GenericTypeDefs.h	245;"	m	line:245	struct:_QWORD_VAL::<anonymous>
+b23	C:\project\ExRobot\Inc\GenericTypeDefs.h	183;"	m	line:183	struct:_DWORD_VAL::<anonymous>
+b23	C:\project\ExRobot\Inc\GenericTypeDefs.h	246;"	m	line:246	struct:_QWORD_VAL::<anonymous>
+b24	C:\project\ExRobot\Inc\GenericTypeDefs.h	184;"	m	line:184	struct:_DWORD_VAL::<anonymous>
+b24	C:\project\ExRobot\Inc\GenericTypeDefs.h	247;"	m	line:247	struct:_QWORD_VAL::<anonymous>
+b25	C:\project\ExRobot\Inc\GenericTypeDefs.h	185;"	m	line:185	struct:_DWORD_VAL::<anonymous>
+b25	C:\project\ExRobot\Inc\GenericTypeDefs.h	248;"	m	line:248	struct:_QWORD_VAL::<anonymous>
+b26	C:\project\ExRobot\Inc\GenericTypeDefs.h	186;"	m	line:186	struct:_DWORD_VAL::<anonymous>
+b26	C:\project\ExRobot\Inc\GenericTypeDefs.h	249;"	m	line:249	struct:_QWORD_VAL::<anonymous>
+b27	C:\project\ExRobot\Inc\GenericTypeDefs.h	187;"	m	line:187	struct:_DWORD_VAL::<anonymous>
+b27	C:\project\ExRobot\Inc\GenericTypeDefs.h	250;"	m	line:250	struct:_QWORD_VAL::<anonymous>
+b28	C:\project\ExRobot\Inc\GenericTypeDefs.h	188;"	m	line:188	struct:_DWORD_VAL::<anonymous>
+b28	C:\project\ExRobot\Inc\GenericTypeDefs.h	251;"	m	line:251	struct:_QWORD_VAL::<anonymous>
+b29	C:\project\ExRobot\Inc\GenericTypeDefs.h	189;"	m	line:189	struct:_DWORD_VAL::<anonymous>
+b29	C:\project\ExRobot\Inc\GenericTypeDefs.h	252;"	m	line:252	struct:_QWORD_VAL::<anonymous>
+b3	C:\project\ExRobot\Inc\GenericTypeDefs.h	120;"	m	line:120	struct:_WORD_VAL::<anonymous>
+b3	C:\project\ExRobot\Inc\GenericTypeDefs.h	163;"	m	line:163	struct:_DWORD_VAL::<anonymous>
+b3	C:\project\ExRobot\Inc\GenericTypeDefs.h	226;"	m	line:226	struct:_QWORD_VAL::<anonymous>
+b3	C:\project\ExRobot\Inc\GenericTypeDefs.h	98;"	m	line:98	struct:_BYTE_VAL::<anonymous>
+b30	C:\project\ExRobot\Inc\GenericTypeDefs.h	190;"	m	line:190	struct:_DWORD_VAL::<anonymous>
+b30	C:\project\ExRobot\Inc\GenericTypeDefs.h	253;"	m	line:253	struct:_QWORD_VAL::<anonymous>
+b31	C:\project\ExRobot\Inc\GenericTypeDefs.h	191;"	m	line:191	struct:_DWORD_VAL::<anonymous>
+b31	C:\project\ExRobot\Inc\GenericTypeDefs.h	254;"	m	line:254	struct:_QWORD_VAL::<anonymous>
+b32	C:\project\ExRobot\Inc\GenericTypeDefs.h	255;"	m	line:255	struct:_QWORD_VAL::<anonymous>
+b33	C:\project\ExRobot\Inc\GenericTypeDefs.h	256;"	m	line:256	struct:_QWORD_VAL::<anonymous>
+b34	C:\project\ExRobot\Inc\GenericTypeDefs.h	257;"	m	line:257	struct:_QWORD_VAL::<anonymous>
+b35	C:\project\ExRobot\Inc\GenericTypeDefs.h	258;"	m	line:258	struct:_QWORD_VAL::<anonymous>
+b36	C:\project\ExRobot\Inc\GenericTypeDefs.h	259;"	m	line:259	struct:_QWORD_VAL::<anonymous>
+b37	C:\project\ExRobot\Inc\GenericTypeDefs.h	260;"	m	line:260	struct:_QWORD_VAL::<anonymous>
+b38	C:\project\ExRobot\Inc\GenericTypeDefs.h	261;"	m	line:261	struct:_QWORD_VAL::<anonymous>
+b39	C:\project\ExRobot\Inc\GenericTypeDefs.h	262;"	m	line:262	struct:_QWORD_VAL::<anonymous>
+b4	C:\project\ExRobot\Inc\GenericTypeDefs.h	121;"	m	line:121	struct:_WORD_VAL::<anonymous>
+b4	C:\project\ExRobot\Inc\GenericTypeDefs.h	164;"	m	line:164	struct:_DWORD_VAL::<anonymous>
+b4	C:\project\ExRobot\Inc\GenericTypeDefs.h	227;"	m	line:227	struct:_QWORD_VAL::<anonymous>
+b4	C:\project\ExRobot\Inc\GenericTypeDefs.h	99;"	m	line:99	struct:_BYTE_VAL::<anonymous>
+b40	C:\project\ExRobot\Inc\GenericTypeDefs.h	263;"	m	line:263	struct:_QWORD_VAL::<anonymous>
+b41	C:\project\ExRobot\Inc\GenericTypeDefs.h	264;"	m	line:264	struct:_QWORD_VAL::<anonymous>
+b42	C:\project\ExRobot\Inc\GenericTypeDefs.h	265;"	m	line:265	struct:_QWORD_VAL::<anonymous>
+b43	C:\project\ExRobot\Inc\GenericTypeDefs.h	266;"	m	line:266	struct:_QWORD_VAL::<anonymous>
+b44	C:\project\ExRobot\Inc\GenericTypeDefs.h	267;"	m	line:267	struct:_QWORD_VAL::<anonymous>
+b45	C:\project\ExRobot\Inc\GenericTypeDefs.h	268;"	m	line:268	struct:_QWORD_VAL::<anonymous>
+b46	C:\project\ExRobot\Inc\GenericTypeDefs.h	269;"	m	line:269	struct:_QWORD_VAL::<anonymous>
+b47	C:\project\ExRobot\Inc\GenericTypeDefs.h	270;"	m	line:270	struct:_QWORD_VAL::<anonymous>
+b48	C:\project\ExRobot\Inc\GenericTypeDefs.h	271;"	m	line:271	struct:_QWORD_VAL::<anonymous>
+b49	C:\project\ExRobot\Inc\GenericTypeDefs.h	272;"	m	line:272	struct:_QWORD_VAL::<anonymous>
+b5	C:\project\ExRobot\Inc\GenericTypeDefs.h	100;"	m	line:100	struct:_BYTE_VAL::<anonymous>
+b5	C:\project\ExRobot\Inc\GenericTypeDefs.h	122;"	m	line:122	struct:_WORD_VAL::<anonymous>
+b5	C:\project\ExRobot\Inc\GenericTypeDefs.h	165;"	m	line:165	struct:_DWORD_VAL::<anonymous>
+b5	C:\project\ExRobot\Inc\GenericTypeDefs.h	228;"	m	line:228	struct:_QWORD_VAL::<anonymous>
+b50	C:\project\ExRobot\Inc\GenericTypeDefs.h	273;"	m	line:273	struct:_QWORD_VAL::<anonymous>
+b51	C:\project\ExRobot\Inc\GenericTypeDefs.h	274;"	m	line:274	struct:_QWORD_VAL::<anonymous>
+b52	C:\project\ExRobot\Inc\GenericTypeDefs.h	275;"	m	line:275	struct:_QWORD_VAL::<anonymous>
+b53	C:\project\ExRobot\Inc\GenericTypeDefs.h	276;"	m	line:276	struct:_QWORD_VAL::<anonymous>
+b54	C:\project\ExRobot\Inc\GenericTypeDefs.h	277;"	m	line:277	struct:_QWORD_VAL::<anonymous>
+b55	C:\project\ExRobot\Inc\GenericTypeDefs.h	278;"	m	line:278	struct:_QWORD_VAL::<anonymous>
+b56	C:\project\ExRobot\Inc\GenericTypeDefs.h	279;"	m	line:279	struct:_QWORD_VAL::<anonymous>
+b57	C:\project\ExRobot\Inc\GenericTypeDefs.h	280;"	m	line:280	struct:_QWORD_VAL::<anonymous>
+b58	C:\project\ExRobot\Inc\GenericTypeDefs.h	281;"	m	line:281	struct:_QWORD_VAL::<anonymous>
+b59	C:\project\ExRobot\Inc\GenericTypeDefs.h	282;"	m	line:282	struct:_QWORD_VAL::<anonymous>
+b6	C:\project\ExRobot\Inc\GenericTypeDefs.h	101;"	m	line:101	struct:_BYTE_VAL::<anonymous>
+b6	C:\project\ExRobot\Inc\GenericTypeDefs.h	123;"	m	line:123	struct:_WORD_VAL::<anonymous>
+b6	C:\project\ExRobot\Inc\GenericTypeDefs.h	166;"	m	line:166	struct:_DWORD_VAL::<anonymous>
+b6	C:\project\ExRobot\Inc\GenericTypeDefs.h	229;"	m	line:229	struct:_QWORD_VAL::<anonymous>
+b60	C:\project\ExRobot\Inc\GenericTypeDefs.h	283;"	m	line:283	struct:_QWORD_VAL::<anonymous>
+b61	C:\project\ExRobot\Inc\GenericTypeDefs.h	284;"	m	line:284	struct:_QWORD_VAL::<anonymous>
+b62	C:\project\ExRobot\Inc\GenericTypeDefs.h	285;"	m	line:285	struct:_QWORD_VAL::<anonymous>
+b63	C:\project\ExRobot\Inc\GenericTypeDefs.h	286;"	m	line:286	struct:_QWORD_VAL::<anonymous>
+b7	C:\project\ExRobot\Inc\GenericTypeDefs.h	102;"	m	line:102	struct:_BYTE_VAL::<anonymous>
+b7	C:\project\ExRobot\Inc\GenericTypeDefs.h	124;"	m	line:124	struct:_WORD_VAL::<anonymous>
+b7	C:\project\ExRobot\Inc\GenericTypeDefs.h	167;"	m	line:167	struct:_DWORD_VAL::<anonymous>
+b7	C:\project\ExRobot\Inc\GenericTypeDefs.h	230;"	m	line:230	struct:_QWORD_VAL::<anonymous>
+b8	C:\project\ExRobot\Inc\GenericTypeDefs.h	125;"	m	line:125	struct:_WORD_VAL::<anonymous>
+b8	C:\project\ExRobot\Inc\GenericTypeDefs.h	168;"	m	line:168	struct:_DWORD_VAL::<anonymous>
+b8	C:\project\ExRobot\Inc\GenericTypeDefs.h	231;"	m	line:231	struct:_QWORD_VAL::<anonymous>
+b9	C:\project\ExRobot\Inc\GenericTypeDefs.h	126;"	m	line:126	struct:_WORD_VAL::<anonymous>
+b9	C:\project\ExRobot\Inc\GenericTypeDefs.h	169;"	m	line:169	struct:_DWORD_VAL::<anonymous>
+b9	C:\project\ExRobot\Inc\GenericTypeDefs.h	232;"	m	line:232	struct:_QWORD_VAL::<anonymous>
+bits	C:\project\ExRobot\Inc\GenericTypeDefs.h	103;"	m	line:103	union:_BYTE_VAL
+bits	C:\project\ExRobot\Inc\GenericTypeDefs.h	133;"	m	line:133	union:_WORD_VAL
+bits	C:\project\ExRobot\Inc\GenericTypeDefs.h	192;"	m	line:192	union:_DWORD_VAL
+bits	C:\project\ExRobot\Inc\GenericTypeDefs.h	287;"	m	line:287	union:_QWORD_VAL
+byte	C:\project\ExRobot\Inc\GenericTypeDefs.h	114;"	m	line:114	union:_WORD_VAL
+byte	C:\project\ExRobot\Inc\GenericTypeDefs.h	152;"	m	line:152	union:_DWORD_VAL
+c	C:\project\ExRobot\Src\UART.c	58;"	l	line:58
+count	C:\project\ExRobot\Src\UART.c	59;"	l	line:59
+d	C:\project\ExRobot\Inc\GenericTypeDefs.h	206;"	m	line:206	union:_QWORD_VAL
+data	C:\project\ExRobot\Src\UART.c	117;"	l	line:117
+dword	C:\project\ExRobot\Inc\GenericTypeDefs.h	213;"	m	line:213	union:_QWORD_VAL
+far	C:\project\ExRobot\Inc\Compiler.h	154;"	d	line:154
+getcUART::ReadUSART	C:\project\ExRobot\Inc\HardwareProfile.h	228;"	d	line:228
+getsUART2	C:\project\ExRobot\Inc\UART.h	67;"	p	line:67	signature:(unsigned int length,unsigned int *buffer, unsigned int uart_data_wait)
+getsUART2	C:\project\ExRobot\Src\UART.c	197;"	f	line:197	signature:(unsigned int length,unsigned int *buffer, unsigned int uart_data_wait)
+getsUART::(a,b,c)getsUSART(b,a)	C:\project\ExRobot\Inc\HardwareProfile.h	226;"	d	line:226
+getsUSART	C:\project\ExRobot\Inc\UART.h	61;"	p	line:61	signature:(char *buffer, unsigned char len)
+getsUSART	C:\project\ExRobot\Src\UART.c	114;"	f	line:114	signature:(char *buffer, unsigned char len)
+high	C:\project\ExRobot\Inc\GenericTypeDefs.h	156;"	m	line:156	struct:_DWORD_VAL::<anonymous>
+i	C:\project\ExRobot\Src\Delay.c	58;"	l	line:58
+i	C:\project\ExRobot\Src\LCDBlocking.c	149;"	l	line:149
+i	C:\project\ExRobot\Src\LCDBlocking.c	212;"	l	line:212
+i	C:\project\ExRobot\Src\UART.c	116;"	l	line:116
+initBoard	C:\project\ExRobot\Src\main.c	11;"	f	line:11
+j	C:\project\ExRobot\Src\LCDBlocking.c	212;"	l	line:212
+low	C:\project\ExRobot\Inc\GenericTypeDefs.h	155;"	m	line:155	struct:_DWORD_VAL::<anonymous>
+main	C:\project\ExRobot\Src\main.c	66;"	f	line:66	signature:(void)
+memcmppgm2ram::(a,b,c)memcmp(a,b,c)	C:\project\ExRobot\Inc\Compiler.h	106;"	d	line:106
+memcpypgm2ram::(a,b,c)memcpy(a,b,c)	C:\project\ExRobot\Inc\Compiler.h	108;"	d	line:108
+persistent	C:\project\ExRobot\Inc\Compiler.h	153;"	d	line:153
+putcUART::(a)WriteUSART(a)	C:\project\ExRobot\Inc\HardwareProfile.h	229;"	d	line:229
+putrsUART::(a)putrsUSART((farromchar*)a)	C:\project\ExRobot\Inc\HardwareProfile.h	230;"	d	line:230
+putrsUSART	C:\project\ExRobot\Inc\UART.h	63;"	p	line:63	signature:(const rom char *data)
+putrsUSART	C:\project\ExRobot\Src\UART.c	139;"	f	line:139	signature:(const rom char *data)
+putsUART2	C:\project\ExRobot\Inc\UART.h	66;"	p	line:66	signature:(unsigned int *buffer)
+putsUART2	C:\project\ExRobot\Src\UART.c	160;"	f	line:160	signature:(unsigned int *buffer)
+putsUART::(a)putsUSART(a)	C:\project\ExRobot\Inc\HardwareProfile.h	227;"	d	line:227
+putsUSART	C:\project\ExRobot\Inc\UART.h	62;"	p	line:62	signature:(char *data)
+putsUSART	C:\project\ExRobot\Src\UART.c	130;"	f	line:130	signature:( char *data)
+rom	C:\project\ExRobot\Inc\Compiler.h	134;"	d	line:134
+strcatpgm2ram::(a,b)strcat(a,b)	C:\project\ExRobot\Inc\Compiler.h	114;"	d	line:114
+strchrpgm::(a,b)strchr(a,b)	C:\project\ExRobot\Inc\Compiler.h	113;"	d	line:113
+strcmppgm2ram::(a,b)strcmp(a,b)	C:\project\ExRobot\Inc\Compiler.h	107;"	d	line:107
+strcpypgm2ram::(a,b)strcpy(a,b)	C:\project\ExRobot\Inc\Compiler.h	109;"	d	line:109
+strcpypgm2ram::(a,b)strcpypgm2ram(a,(farromch	C:\project\ExRobot\Inc\Compiler.h	128;"	d	line:128
+strlenpgm::(a)strlen(a)	C:\project\ExRobot\Inc\Compiler.h	112;"	d	line:112
+strncpypgm2ram::(a,b,c)strncpy(a,b,c)	C:\project\ExRobot\Inc\Compiler.h	110;"	d	line:110
+strstrrampgm::(a,b)strstr(a,b)	C:\project\ExRobot\Inc\Compiler.h	111;"	d	line:111
+temp_ptr	C:\project\ExRobot\Src\UART.c	162;"	l	line:162
+temp_ptr	C:\project\ExRobot\Src\UART.c	202;"	l	line:202
+v	C:\project\ExRobot\Inc\GenericTypeDefs.h	109;"	m	line:109	union:_WORD_VAL
+v	C:\project\ExRobot\Inc\GenericTypeDefs.h	140;"	m	line:140	union:_DWORD_VAL
+v	C:\project\ExRobot\Inc\GenericTypeDefs.h	208;"	m	line:208	union:_QWORD_VAL
+w	C:\project\ExRobot\Inc\GenericTypeDefs.h	139;"	m	line:139	union:_DWORD_VAL
+w	C:\project\ExRobot\Inc\GenericTypeDefs.h	207;"	m	line:207	union:_QWORD_VAL
+wait	C:\project\ExRobot\Src\UART.c	201;"	l	line:201
+word	C:\project\ExRobot\Inc\GenericTypeDefs.h	145;"	m	line:145	union:_DWORD_VAL
+word	C:\project\ExRobot\Inc\GenericTypeDefs.h	220;"	m	line:220	union:_QWORD_VAL
+wordUnion	C:\project\ExRobot\Inc\GenericTypeDefs.h	157;"	m	line:157	union:_DWORD_VAL
