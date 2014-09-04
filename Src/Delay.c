@@ -52,7 +52,12 @@
 
 #include "HardwareProfile.h"
 
+static long s_seconds = 0;
+static int  s_mili = 0;
+
 #if !defined(__18CXX) || defined(HI_TECH_C)
+
+
 void DelayMs(WORD ms)
 {
     unsigned char i;
@@ -84,3 +89,23 @@ void Delay10us(DWORD dwCount)
 	}
 }
 #endif
+
+
+void updateMiliTick()
+{
+	s_mili++;
+	if( s_mili == 1000 )
+	{
+		s_seconds++;
+		s_mili = 0;
+	}
+	
+}
+
+long getMiliTicks(){
+	return ( s_seconds * 1000 ) + s_mili;
+}
+
+long getSeconds(){
+	return s_seconds;
+}

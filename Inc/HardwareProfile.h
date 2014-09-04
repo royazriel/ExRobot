@@ -134,12 +134,12 @@ extern char dummy;
 		#define R_MOTOR_FB1_TRIS					(TRISJbits.TRISJ6)
 		#define R_MOTOR_FB1							(PORTJbits.RJ6)  // EXT-4
 
-		#define BUMPER1_TRIS						(TRISJbits.TRISJ5)
-		#define BUMPER1								(PORTJbits.RJ5)  // EXT-5
-		#define BUMPER2_TRIS						(TRISJbits.TRISJ4)
-		#define BUMPER2								(PORTJbits.RJ4)	 // EXT-6
-		#define BUMPER3_TRIS						(TRISJbits.TRISJ3)
-		#define BUMPER3								(PORTJbits.RJ3)	 // EXT-7
+		#define R_BACK_BUMPER_TRIS					(TRISJbits.TRISJ5)
+		#define R_BACK_BUMPER						(PORTJbits.RJ5)  // EXT-5
+		#define FRONT_BUMPER_TRIS					(TRISJbits.TRISJ4)
+		#define FRONT_BUMPER						(PORTJbits.RJ4)	 // EXT-6
+		#define L_BACK_BUMPER_TRIS					(TRISJbits.TRISJ3)
+		#define L_BACK_BUMPER						(PORTJbits.RJ3)	 // EXT-7
 
 		//#define R_MOTOR_FB2_TRIS					(TRISDbits.TRISD1)
 		//#define R_MOTOR_FB2						 	(PORTDbits.RD1)	 // EXT-22

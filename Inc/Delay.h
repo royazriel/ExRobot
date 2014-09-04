@@ -56,6 +56,7 @@
 #include "HardwareProfile.h"
 #if defined(__18CXX) && !defined(HI_TECH_C)
 	#include <delays.h>
+	
 #endif
 
 #if !defined(GetInstructionClock)
@@ -71,10 +72,14 @@
 		while(_iTemp--)												\
 			Delay1KTCYx((GetInstructionClock()+999999)/1000000);	\
 	} while(0)
+	
+	void updateMiliTick();
+	long getMiliTicks();
+	long getSeconds();
 
 #elif defined(__C30__) || defined(__C32__)
 	void Delay10us(DWORD dwCount);
-	void DelayMs(WORD ms);
+
 
 #else
 	#define Delay10us(x)			\

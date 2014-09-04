@@ -8,8 +8,56 @@
 #include "LCDBlocking.h"
 #include "UART.h"
 #include "Delay.h"
+
+
+#if defined(__18CXX)
+	#pragma interruptlow LowISR
+	void LowISR(void)
+	{
+	    if (INTCONbits.TMR0IF && INTCONbits.TMR0IE)		// TMR0 Interrupt
+	 	{
+	 		INTCONbits.TMR0IF = 0;						// clear flag
+	 		TMR0H = 0xFC;								//0x30d = 781 = 1ms   0xffff-0x30d = 0xFCF2
+			TMR0L = 0xf2;
+			updateMiliTick();
+		}
+	}
+	
+	#pragma interruptlow HighISR
+	void HighISR(void)
+	{
+		if (INTCONbits.TMR0IF && INTCONbits.TMR0IE)		// TMR0 Interrupt
+	 	{
+	 		INTCONbits.TMR0IF = 0;						// clear flag
+	 		TMR0H = 0xE7;								//0x30d = 781 = 1ms   0xffff-0x30d = 0xFCF2
+			TMR0L = 0x96;
+			updateMiliTick();
+		}
+	}
+	#pragma code lowVector=0x18
+	void LowVector(void){_asm goto LowISR _endasm}
+	#pragma code highVector=0x8
+	void HighVector(void){_asm goto HighISR _endasm}
+	#pragma code // Return to default code section
+
+
 void initBoard()
 {
+
+	T0CONbits.T0PS = 4;  	//1:32 25Mhz/32 = ~ 1Mhz   clocks in second 781250
+	T0CONbits.PSA = 1;   	//timer0 prescaler assigned
+	T0CONbits.T0SE = 0;	 	//increment low to high;
+	T0CONbits.T0CS = 0;	//internal clock
+	T0CONbits.T0SE = 1;
+	T0CONbits.T08BIT = 0;	//16 bit timer
+	T0CONbits.TMR0ON = 1;
+	TMR0H = 0xE7;			//0x30d = 781 = 1ms   0xffff-0x30d = 0xFCF2    59286
+	TMR0L = 0x96;
+	INTCONbits.TMR0IF = 0;
+	INTCONbits.TMR0IE = 1;
+	INTCONbits.GIE = 1;
+	//INTCONbits.PEIE	= 1;			//Interrupts// Peripheral Interrupts Enable (RCON<6>)
+
 	LED0_TRIS = 0;
 	LED0_IO = 0; 
 	LED1_TRIS = 0;
@@ -56,13 +104,15 @@ void initBoard()
 
 	L_MOTOR_FB1_TRIS = 1;					
 	R_MOTOR_FB1_TRIS = 1;						
-	BUMPER1_TRIS = 1;							
-	BUMPER2_TRIS = 1;								
-	BUMPER3_TRIS = 1;									
+	R_BACK_BUMPER_TRIS = 1;	
+	FRONT_BUMPER_TRIS = 1;						
+	L_BACK_BUMPER_TRIS = 1;								
+										
 	L_WHITE_LINE_SENSE_TRIS = 1;
 	R_WHITE_LINE_SENSE_TRIS = 1;
 	LCDInit();
 }
+
 void main (void)
 {
     initBoard();
@@ -71,6 +121,21 @@ void main (void)
 	
 	while (1)
 	{
+
+		StateMachine();
+		sprintf(GetLcdBuffer(),"%d %d %d %d %d %d %d ",L_MOTOR_FB1,L_WHITE_LINE_SENSE,R_BACK_BUMPER,FRONT_BUMPER,L_BACK_BUMPER,R_WHITE_LINE_SENSE,R_MOTOR_FB1);
+		LCDUpdate();
+
+
+
+
+
+
+
+
+
+
+#if 0
 		if( !BUTTON0_IO ) 
 		{
 			LED0_IO =1;
@@ -99,5 +164,7 @@ void main (void)
 			CCPR3L = 0;
 			CCPR4L = 0;
 		}
+#endif
 	}
+
 }
