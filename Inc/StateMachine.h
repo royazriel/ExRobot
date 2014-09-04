@@ -7,10 +7,10 @@
 #include "Delay.h"
 
 
-#define TURN_TIME_45DEG 				1600
+#define TURN_TIME_45DEG 				1900
 #define TURN_TIME_90DEG 				(TURN_TIME_45DEG * 2)
 #define TURN_TIME_180DEG 				(TURN_TIME_90DEG * 2)
-#define REVERSE10CM		 				2500
+#define REVERSE10CM		 				1250
 #define REVERSE20CM		 				(REVERSE10CM * 2)
 #define WHITE_LINE1_THRESHOLD_MILI		50
 #define WHITE_LINE2_THRESHOLD_MILI		200
