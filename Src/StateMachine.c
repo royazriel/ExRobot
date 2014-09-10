@@ -143,7 +143,14 @@ void StateMachine()
 						{
 							if( whiteLineVolume == etWLSoft )
 							{
-								s_targetTurnTime = TURN_TIME_60DEG; //TURN_TIME_45DEG;
+								if( whiteLineDirection == etWLLeft )
+								{
+									s_targetTurnTime = TURN_TIME_60DEG;
+								}
+								else
+{
+									s_targetTurnTime = TURN_TIME_45DEG;;
+								}
 							}
 							else
 							{
