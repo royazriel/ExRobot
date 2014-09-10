@@ -8,6 +8,7 @@ static long s_targetTurnTime 			= TURN_TIME_45DEG;
 static int 	s_prevState 				= -1;
 static long s_rightWhiteLineTime 		= 0;
 static long s_leftWhiteLineTime  		= 0;
+static long s_WaitBeforeReversTime 		= 0;
 static	WhiteLineDirection whiteLineDirection = etWLNone;
 static	WhiteLineVolume    whiteLineVolume;
 static 	long deltaTime = 0;
@@ -39,7 +40,7 @@ void StateMachine()
 			checkRearBumpers();
 			if( FRONT_BUMPER )
 			{
-				s_state = etStartReverse;
+				s_state = etWaitBeforeReverse;
 			}
 			if( !R_WHITE_LINE_SENSE && s_rightWhiteLineTime==0 )
 			{
@@ -72,18 +73,18 @@ void StateMachine()
 					{
 						whiteLineDirection = etWLStraight;
 						whiteLineVolume = etWLFront;
-						s_state = etStartReverse;
+						s_state = etWaitBeforeReverse;
 					}
 					else
 						if( deltaTime < WHITE_LINE2_THRESHOLD_MILI )
 						{
 							whiteLineVolume = etWLSoft;
-							s_state = etStartReverse;
+							s_state = etWaitBeforeReverse;
 						}
 						else
 						{
 							whiteLineVolume = etWLParallel;
-							s_state = etStartReverse;
+							s_state = etWaitBeforeReverse;
 						}
 				}
 				if( R_WHITE_LINE_SENSE && L_WHITE_LINE_SENSE )
@@ -93,10 +94,18 @@ void StateMachine()
 					s_state = etStopStraight;
 				}
 			}
+			s_WaitBeforeReversTime = getMiliTicks();
 			break;
 		case etStopStraight:
 			MotorsStop();
 			s_state = etIdle;		
+			break;
+		case etWaitBeforeReverse:
+			MotorsStop();
+			if( getMiliTicks()-s_WaitBeforeReversTime > WAIT_BEFORE_REVERSE )
+			{
+		    	s_state = etStartReverse;
+			}
 			break;
 		case etStartReverse:
 			s_start = MotorStraight( etFast,etReverse );
@@ -134,11 +143,11 @@ void StateMachine()
 						{
 							if( whiteLineVolume == etWLSoft )
 							{
-								s_targetTurnTime = TURN_TIME_45DEG;
+								s_targetTurnTime = TURN_TIME_60DEG; //TURN_TIME_45DEG;
 							}
 							else
 							{
-								s_targetTurnTime = TURN_TIME_90DEG;
+								s_targetTurnTime = TURN_TIME_45DEG; //TURN_TIME_90DEG;
 							}
 						}
 						break;
